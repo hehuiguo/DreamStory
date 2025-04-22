@@ -1,0 +1,559 @@
+Tight Squeeze
+Dean Charles Ing
+
+He knew the theory of repairing the gizmo all right. He had that nicely
+taped. But there was the little matter of threading a wire through a toosmall hole while under zero-g, and working in a spacesuit!
+
+MacNamara ambled across the loading ramp, savoring the dry, dusty air
+that smelled unmistakable of spaceship. He half-consciously separated the
+odors; the sweet, volatile scent of fuel, the sharp aroma of lingering
+exhaust gases from early morning test-firing, the delicate odor of silicon
+plastic which was being stowed as payload. He shielded his eyes against
+the sun, watching as men struggled with the last plastic girders to be
+strapped down, high above the dazzling ground of White Sands. The
+slender cargo doors stood open around Valier's girth, awaiting his own
+personal O.K.
+This flight would be the fourth for Major Edward MacNamara; as he
+neared the great, squatting shock absorbers he could feel the tension
+begin to knot his stomach. He had, of course, been overwhelmed by the
+opportunity to participate in Operation Doughnut. The fact that he had
+been one of the best mechanical engineers in the Air Force never occurred
+to him at the time. He was a pilot, and a good one, but he had languished
+as C.O. of a maintenance squadron for nearly two years before he was
+given another crack at glory. Now, he wasn't at all sure he was happy
+with the transition. They needed master mechanics for Operation
+Doughnut, but he felt they should be left on the ground when the
+towering supply rockets lifted.
+He stopped, leaning against scaffolding as he saw a familiar figure turn
+toward him. He cupped his hands before his face.
+"Hey, douse that butt! Can't you ... oh, Mac!" The commanding voice
+trailed off in a chuckle. Better to clown his way through the inspection,
+MacNamara thought, than to let Ruiz notice his nervousness. The co-pilot,
+
+Ruiz, walked toward him, still smiling. "One of these days, boy, you gonna
+go too far. Thought you were a real, eighteen carat saboteur." He clapped
+MacNamara on the shoulder and gazed aloft. "Good day for it. No
+weather, no hangover, no nothing."
+"Yeah. You know, Johnny, I've been thinking about a modification for our
+breathing oxy." He sniffed appreciatively.
+"What's that?"
+"Put a little dust in it, a few smells. That stuff we breathe is just too
+sanitary!"
+"I know what you mean. I sure begin to crave this filthy, germ-filled air
+after a few hours out there." They both smiled at the thought, then
+turned to the business at hand.
+"By the way, Johnny, what're you doing out so early? Didn't expect to see
+you cabbies before ten."
+"I donno," the bronzed Ruiz replied. "Went to bed early, woke up at six
+and couldn't drop off again. And here I am. Carl ought to be along around
+nine-thirty. Thought I'd help you preflight, if you want me to."
+"Sure." He wanted nothing of the sort, but had the tact not to say so.
+Edward MacNamara was as familiar with the Valier as he was with the tip
+of his nose. He had been on the scene when Dan Burke test-hopped the
+third stage, had made improvements and re-routing jobs, and had
+memorized every serial number of every bearing that went into Valier. As
+Flight Engineer, he was supposed to.
+With Johnny Ruiz helping a little and hindering a little, he finished his tour
+of the cargo sections and grinned his approval to a muscular loading
+technician. "They can button her up, sergeant. I couldn't do a better job
+myself." It was a compliment of the highest order, and they both knew it.
+
+Riding the tiny lift down to ground level, MacNamara stopped them every
+ten feet or so to circle the catwalks. He noticed Ruiz's impatience about
+halfway down. "No hurry, Johnny. I don't want another Wyld on our
+hands." He knew he shouldn't have said it, but it slipped out anyway.
+Everyone tried to forget the Wyld disaster, particularly the flight
+personnel. The Wyld, one of the first ships to be built, had made only two
+orbits before being destroyed. Observers stated that a cargo hatch had
+somehow swung open when the Wyld was only a thousand feet in the air.
+At any rate, the pilot reported damage to one second-stage fin and tried
+to brake his way down. The Wyld settled beautifully, tilted, then fell
+headlong. The resultant explosion caused such destruction that, had there
+not been a number of men in orbit and waiting for supplies, the project
+might have been halted, "temporarily." It was generally conceded that a
+more thorough preflight could have prevented the Wyld's immolation.
+Ruiz was noticeably quieter during the remainder of the inspection. The
+external check completed, MacNamara strapped a small flashlight to his
+wrist and began the internal inspection, jokingly called the autopsy.
+*****
+An hour and over a hundred and fifty feet later, MacNamara wheezed as
+he swung over the bulkhead at the base of Valier's third and top stage.
+His aching limbs persuaded him to take a breather. After all, his complete
+inspection of the day before really made a final preflight unnecessary, and
+passing near the frigid oxygen tanks was a day's work in itself. He
+listened to the innumerable noises around and below him. The clicks and
+hums near him meant that Ruiz, having given up following him, was
+checking out the flight controls, with power on only in the top stage. From
+below came a vibrational rushing noise, nearly subsonic, which told him of
+the fueling operation. He thought of the electrical relays governing the
+fuel input and shuddered. He violently disliked the idea of having hot
+wires near fuel of any kind, and rocket fuel in particular.
+MacNamara swept his light over his wrist watch. Fifteen after. Logan
+should be along soon, he thought, and hastened to finish checking the
+conduits, servos, pumps and hydraulic actuators below the cabin level.
+This done, he crawled up the final ladder to the cabin, or "dome."
+
+"Well," cried a cheerful voice, "if it isn't our grimy Irishman."
+MacNamara shook the sweat from his brow and muttered, "Irishman, is
+it? How about 'Logan'? That's a good Scandinavian name."
+"How about Logan? He's great, as usual. Just look at me, Mac. What a
+specimen!" Logan, the inevitable optimist, bounced out of his acceleration
+couch and spread his arms wide as if to show the world what a superman
+he, Carl Logan, was. The gesture and its intimations made MacNamara
+smile. Logan wasn't much over five feet tall, and his flight suit made him
+look like a bald pussycat. His small physique covered a fantastic set of
+reflexes, however, and Logan's sense of humor was a quality of utmost
+importance. He hadn't an enemy in the world. His enemy was out of this
+world by definition; Logan wanted to conquer space and, so far, was
+doing just that.
+"O.K., O.K. Laugh. Just remember this, Gargantua; I may not be tall, but
+I sure am skinny." MacNamara smiled again, nodding agreement. "Well,
+don't everybody talk at once. How is she, Mac?"
+"With luck," answered MacNamara, "we might get ten feet off the turf."
+He paused for effect. "Seriously, Carl, she never looked better. You could
+take her up right now. Say, where's Johnny? I thought you'd just be
+checking in to the medics; looks like everybody's early today."
+"He's probably over in some corner, making out his will. He was down
+below a while ago with a face a mile long."
+Probably, thought Mac, he's still thinking about the Wyld. Why did I have
+to bring that up? Aloud, he said, "I ought to check the ground crew. Did
+you bring the forms?"
+"Nope. Just my magnificent self. If anything had gone astray, they'd have
+told you."
+"All the same, I think I'll go down and question the troops. Don't leave
+without me." He clambered out onto the catwalk, leaving the air lock
+
+open. The sun was riding higher every minute. In a little over an hour,
+he'd be a thousand miles away--vertically. The knot in his stomach began
+to form again. He wasn't scared, exactly; he kept telling himself "excited"
+was a nicer word.
+The inspection forms signed, Mac held a short interrogation with the crew
+chief. The grizzled lieutenant, commissioned because of his long
+experience and responsibilities, gave Valier a clean bill of health. Each
+engine of the booster stage had been fired separately, before dawn. A
+cubic foot of mercury seemed to roll from Mac's shoulders as he saw
+Logan and Ruiz lounging at the bottom of the lift; there wasn't anything
+to worry about. He recalled feeling the tension before the other three
+flights, then chided himself. Ya, ya, scared-y cat. Well, why not? It's a
+helluva risk every time you make a shot, in spite of all the propaganda.
+Hooey; if you didn't know everything's O.K., you wouldn't be getting
+ready to make the shot. Yeah, but you never can tell----He stopped his
+inward battle and forced some spring into his step as he moved toward
+Logan and Ruiz.
+"I've tried my best to abort this big bug, but I can't find anything amiss."
+"That's Granny MacNamara for you," jibed Logan. "Always trying to find
+fault." He winked at Ruiz and rubbed his hands together. "Well--tennis,
+anyone?"
+Mac knew without asking that Logan, for all his apparent indifference, had
+painstakingly gone over every phase of the flight, checking distribution,
+radar, final instructions from Operations, weather, et al. Ruiz, as usual,
+watched and took notes as Logan gathered data.
+*****
+At minus fifteen minutes, the trio was in the dome, checking personal
+equipment, while outside, the scaffolding ponderously slid away, section
+by section.
+There was little time for soliloquies of to go, or not to go; within the
+quarter-hour, Captain Ruiz and Majors MacNamara and Logan would be in
+
+readiness for the final count-down. With the emergency bail-out
+equipment checked, the men busied themselves on another continuity
+test of the myriad circuits spread like a human neural system throughout
+the ship. All relays, servo systems and instrument leads were in perfect
+condition as expected, and the trio was settled comfortably in acceleration
+couches with minutes to spare.
+Logan contacted Ground Control a few seconds after the minus-three
+minute signal, informing all and sundry that Gridley could fire when
+ready. MacNamara sighed, thinking that if Logan's humor wasn't exactly
+original, it was surely tenacious.
+The ship was brought to dim half-life at minus one minute by Logan's
+agile fingers, and as the final countdown rasped in his headset, Mac felt
+his innards wrestle among themselves.
+Valier bellowed her enthusiasm suddenly, lifting her eight thousand-odd
+tons from the ground almost instantly. Inside, her occupants grimaced
+helplessly as they watched various instruments guide tiny pointers across
+calibrated faces. Mac's throat mike threatened to crush his Adam's apple,
+weighing five times its usual few ounces. Of his senses, sound was the
+one that dominated him; an intolerable, continuous explosion from the
+motors racked his mind like tidal waves of formic acid. He forced himself
+to overcome the numbness which his brain cast up to defend itself. Then,
+as quickly as it had begun, Valier fell deafeningly silent; that meant Mach
+1 was passed.
+It was an eternity before stage one separated. The loss of the empty hulk
+was hardly felt as Valier streaked high over the Texas border. Ruiz,
+watching the radarscope, saw Lubbock slide into focus miles below. Next
+stop, Fort Worth, he thought. I used to drive that in five hours. The
+jagged line of the caprock told him they were well on their way to Fort
+Worth already.
+The altimeter showed slightly over forty-two miles when stage two
+detached itself. Logan, in constant contact with White Sands, was
+informed that they were tracking perfectly as Valier arrowed over central
+Texas toward rendezvous at the doughnut. The exhausted lower stages
+
+were forgotten now; only the second stage was of any concern anyway.
+The radar boys tracked it all the way down, ready to detonate it high in
+the air if its huge 'chutes wafted it near any inhabited community.
+The motors of stage three blasted for a carefully calculated few seconds,
+then cut out automatically. With the destitution of his weight, Mac felt his
+spirits soar also. They were almost in orbit, now, climbing at a slight
+angle with a velocity sufficient to carry them around Earth forever, a
+streamlined, tiny satellite.
+After the first few moments of disorientation, rocket crews found that a
+weightless condition gave them, ambiguously, a buoyant feeling. Only the
+doughnut crew had really adapted to this condition, living as they did
+without the effects of gravity for hours at a time every day. The
+temporary "housing" was rotated for comfort of the crews during rest
+periods, but while moving the plates and girders of the giant doughnut
+into place, they had no such luxuries. For these men, weightlessness
+became an integral part of their activities, but the rocket crews were
+subjected to this phenomenon only during the few hours needed to
+rendezvous, unload the cargo, and coast back after another initial period
+of acceleration.
+Hence, Mac felt a strange elation when he tapped his fingers on the arm
+of his couch and saw his arm float upward, due to reaction from the tap.
+Against all regulations, Logan unstrapped himself and motioned his
+comrades to do the same. This unorthodox seventh-inning stretch was
+prohibited because it left the pilot's arm-rest controls without an operator,
+hence could prove disastrous if, through some malfunction, the ship
+should veer off course.
+The autopilot functioned perfectly, however, and Logan trusted it to the
+point of insouciance. The three men lounged in midair, grinning foolishly
+as they "swam" about the tiny cabin. No more satisfying stretch was ever
+enjoyed.
+A few minutes of this was enough. Ruiz was the first to gingerly pull
+himself into his couch and his companions followed. Not a word had
+
+passed between them, since they were at all times in contact with
+monitor stations spaced across the world below. The first time they had
+enjoyed this irregular horseplay, on the second trip, Logan had made the
+mistake of saying, "Race you to the air lock!", and was hard put to explain
+those words. Nor could Logan switch to "intercom only," since a sudden
+radio silence would create anxiety below. Only their heavy breathing
+would indicate unusual activity to Earthside.
+*****
+They were nearing the intercept point, a thousand miles above the
+Atlantic, when they realized their predicament.
+"I'm in a fix, Carl," said Ruiz, meaning that he had tentatively fixed a
+position of intercept. "Correct our elevation; we're point-nine degrees
+high."
+"Right-o. Correction in five seconds from my mark--mark!"
+For slight corrections in the flight path, small steering motors were
+utilized. These motors were located near the rear lip of Valier's conical
+cargo section on retractable booms. Extension of the motors with no
+resultant air friction gave a longer pivot arm and consequently better
+efficiency. Mac pressed the "Aux. Steer" stud and immediately three
+amber lights winked on in their respective instrument consoles.
+Carl Logan fired the twelve o'clock motor briefly--only it didn't fire. The
+change in momentum wouldn't be much in any case, but it was always
+perceptible by feel and by instrument. There was no change.
+Logan tried the firing circuit again, and again. Still Valier streaked along,
+now miles above the intended point of intercept. By this time, the embryo
+space station was quite near, sailing along in the 'scope beneath them. It
+slowly moved toward the top of the 'scope, passing Valier in its slightly
+higher relative velocity.
+"We've got troubles, Mac--find 'em!" Logan had finally lost the devil-maycare attitude, but that fact was small consolation to MacNamara.
+
+"Keep your mitts off those firing studs, Carl," he growled, unstrapping
+himself quickly. The malfunction was definitely in the auxiliary motor
+setup, he thought. A common trouble? It wouldn't pay to find out. If the
+other motors fired, it would only throw them farther off-course. If worst
+came to worst, they could roll Valier over and use the six o'clock
+auxiliary; there was a small arc through which the motors could turn on
+their mounts. But the trouble was unknown, and they might end up rifling
+or pinwheeling if they didn't let bad enough alone.
+During his mental trouble-shooting, Mac was busily worming his bulk into
+a balloonish-looking suit identical to those worn by the doughnut's
+construction crew. Ruiz gave him some aid, helping him thrust his arms
+past the spring-folded elbow joints. For some reason, the legs gave less
+trouble. Within a fumbling few moments, he was ready for work.
+He glanced at Logan through his visor, feeling a vicious pleasure over the
+beads of sweat on Logan's forehead. Time he sweated a little, thought the
+mechanic.
+A final check of his headset followed, after which Mac oozed into the
+Lilliputian air lock at the bottom, now rear, wall of the cabin. He nodded
+to Ruiz, who secured the air lock, then adjusted his suit control to force a
+little pressure into his suit. Gradually the suit became livable. Then he
+cracked the other air-lock valve and allowed pressure to leak out around
+him.
+His suit puffed out with soft popping noises and Mac heard the last
+vestige of air hiss out of the chamber. He found the hatchway too tight for
+comfort and had a moment of fear when his tool pack caught in the
+orifice, wedging him neatly. He could hear Logan and Ruiz through his
+earphones, explaining their plight to Ground Control. They wanted to
+know why in blue blazes Valier hadn't contacted the doughnut when it
+came within range, and Logan had no defense save preoccupation with
+his own plight. Belatedly, Ruiz made radio contact with the doughnut,
+which was still well within range. All this time, Mac busied himself with his
+inspection light, tracing the electrical leads to the small, turbine operated
+auxiliary motor fuel pumps.
+
+"Mac?" Logan's voice startled him. "Can you brace yourself? I'm going to
+try to match velocities with the doughnut. Won't take over one 'g' for a
+few seconds."
+"Wait a minute." He looked wildly about him. Valier hadn't been built with
+a view toward stowaways; and every cubic inch of space was crammed
+with something, except for the passageway with its ladder, leading up
+from the main motor section. Well, if it wasn't over a "g," he could hang
+on to the ladder. Suit weighs another fifty pounds, though. My weight plus
+fifty, he thought. "Give me a chance to get set," he said aloud. He hooked
+one bulbous leg over a ladder rung and braced the other against a lower
+rung, hugging the ladder with both arms. "Any time you say, but kill it if
+you hear me holler!"
+"Then five seconds from my mark--mark!" Mac tightened his grip, and
+then sagged backward as the main motors fired. The vibrations shook him
+slightly but deeply, and he fought to keep his hold. He felt his back creak
+and pop with the sudden surge of weight. Then the motors shut off, and
+Mac skidded several feet up the ladder. No matter how fast a man's
+reactions were, they couldn't be applied quickly enough to keep him from
+starting an involuntary leap after bracing against a suddenly removed
+gravity load. "All over, Mac. You O.K.?"
+"Guess so, but I feel like a ping-pong ball. How're we sittin'?"
+"Just fine," Ruiz cut in. "Find anything?"
+"Not yet." Mac started his search anew. Everything seemed in perfect
+order up to the turbine pumps. Then, he feared, the trouble was near the
+little motors. That was tough, really tough. With the motors retracted it
+was next to impossible to get to them, past their hydraulically operated
+booms and actuators. Extended, he'd have to go outside. He cringed from
+the thought, although he knew that there was little to fear if he linked
+himself to the ship.
+
+He peered along the beam of light, searching for some telltale
+discoloration in wiring, or a gleaming icy patch which would indicate a fuel
+leak. "Might be the firing plugs," he muttered.
+"Let's hope not. Where are you, Mac? Maybe you better give us a blowby-blow." Logan sounded worried.
+"Good idea. Right now I'm at the nine o'clock actuator. Nothing so far."
+He looked around himself, forgetting for the moment how he was
+supposed to get past the equipment to the other auxiliary motor stations.
+"Johnny," he said slowly, "I think you'd best break out the tapes. Auxiliary
+motor system; you'll find them under power plant." Months before,
+MacNamara had made a complete set of tape recordings of his own voice,
+recorded as he made a thorough-going rundown of every system and its
+components. This was a personal innovation which his fellow flight
+engineers considered folly. Extra weight, they scoffed. Undue
+complication. Mac nodded and went on with his impromptu
+speechmaking; a professional psychiatrist might have said, correctly, that
+Mac felt an unconscious need for supervision, a forgivable deficiency
+dating back to his cadet days. Mac simply claimed that the best of men
+could forget or omit when alone with a few million dollars' worth of
+Uncle's equipment. This way he could remind himself of each step to be
+taken ahead of time, in his own way.
+The co-pilot rushed to comply. Mac, waiting, suddenly remembered how
+to get past his obstacle. Internal braces which helped keep the tanks
+rigidly in place on Earth were of little use while in "freeloading," or
+gravity-less, state. The braces were removable, and Mac had loosened a
+single wing-nut to let the brace swing loose when he heard Johnny Ruiz's
+answer.
+"Ready with your tape, Mac. Where shall I start it?"
+"Run it through 'til you get to a blank spot, then another, then stop it." He
+was certain he didn't really need the tape, but it was a maintenance aid
+and he was determined to use it.
+
+He heard a click, then a hum, as the recorder was jacked into his headset
+circuit. Immediately, a familiar voice began a slow dissertation on power
+leads from the dome, speeded up in the space of a second or two to a
+high-pitched alien gibberish, then to a faint scream. He began squirming
+around the turbine tanks, got past the first brace, and turned to attach it
+again. Of course it wasn't necessary, but--"PLAY IT SAFE" was
+embroidered on his brain by years of maintenance experience; back in his
+old maintenance squadron, he'd been called "the old lady" instead of "the
+old man," due to his insistence on precautions.
+Ruiz slowed the tape suddenly, on cue, and Mac heard himself saying, "...
+Brace back in its slot and pin it. Be careful of those linkages on the
+turbine pumps. Now crawl around to the next brace and unpin it." Pause,
+scraping noises, and a muttered oath. "Pin sticks, but it won't without a
+load on it." It didn't.
+He worked slower than he had on the ground, fumbling with the heavy
+gloves and cursing mightily. His voice rambled on, warning him of
+obstacles and reminding him about minor points that could give trouble.
+He listened carefully, discarding each suggestion.
+Floating near the twelve o'clock auxiliary, Mac peered at each tubing
+connection, tugging and twisting. "Wait a minute," he said. His light
+flashed out at the motor, riding perched on its swivel, limned against cold,
+hard points of light that were the stars. His heart gave a bound. "I think
+I've found it!" His other voice droned on morbidly. "Turn that thing off a
+minute, Johnny. Listen; there's a lead to the twelve o'clock fuel valve
+solenoid that looks like ... yes, I'm sure of it. It's pulled away from a
+bracket and looks like it might be charred." Mac twisted around to view
+the wiring better.
+"Can you fix it?"
+"Oh, sure, if that's all there is wrong. But I'd rather do the work with the
+motors retracted. Tell you what; retract them about forty-five degrees
+when I give the word."
+*****
+
+Mac judged the distance the booms would cover during semiretraction
+and half floated, half crawled out of the way. He found himself breathing
+heavily, despite the freeload conditions. His suit was simply too
+cumbersome. The thought came to him that he didn't even know how
+long he'd been out of the dome. His breathing oxygen gauge showed half
+empty, so he must have been on the job for around a half hour. He
+rationed his supply a bit, hoping he could finish the job without a refill.
+"O.K., Johnny, you can run the tape again. And retract the motors while
+you're at it." He heard the tape start again on its course, watching the
+booms.
+They leaped inward, then, and Mac felt a crushing blow across his back.
+He shook his head groggily and yelled.
+He tried to scramble from his place between motor and turbine fuel lines
+without success; he was trapped like a wild animal by the heavy actuator
+which had swung past his head. He heard himself say, "And be sure to
+stay clear of the actuator. It swings through a ninety-degree arc when it's
+operated."
+"Oh, shut up! I know it; I just judged it wrong." The tape moved on
+unperturbedly, reminding him to inspect the actuator bearings and
+extension rods.
+"Mac," came Logan's voice, "you might try to hurry it. If you can't get it
+fixed in an hour or two, we'll have to try rolling Valier down to the
+doughnut. But it's up to you, fella. Take your time."
+"Well, you might help me a bit by raising this hydraulic unit offa my
+shoulders. Lucky it didn't squash me." The actuator stayed where it was.
+"Johnny! Carl! Do you read me?" No answer. Obviously, the actuator had
+smashed his transmitter, but left the receiver section intact. Then all he
+could hope for would be a suspicion from one of the others that all was
+not well. If they asked him any questions and he failed to reply, they'd
+figure something was wrong. Well, he couldn't count on that.
+
+He struggled with his vulcanized suit, trying to squeeze from under the
+actuator. If I'd had them retract it completely, he thought, I'd be a dead
+man. It was a tight squeeze, but he inched his way out of the trap by
+using every ounce of strength at his command. If his suit tore, he'd know
+it in a hurry.
+Gasping for breath, Mac drew himself into a crouch and regarded the
+offending wire. His flashlight still operated, and he could see the heavy
+insulation which had been scraped away. No charring; then it must have
+been the extension rods that had scissored through the insulation. The
+wire hung together by a thread, the strands of metal severed completely.
+He groped for his tool kit, trying to ignore the voice in his headset.
+"Well, that takes care of the actuators. Now for these dinky motors. The
+swivel mounts have to work without any lubricant, so look for indications
+of wear and--"
+Mac cursed under his breath. He sounded so cocksure, so all-knowing. He
+felt like beating himself. His earlier self, who had blithely toured Valier
+trailing the microphone wires without any real premonition of trouble. It
+always happens to the other guy--Not this time, chum, he reminded
+himself.
+The gloves were systematically foiling his attempts to withdraw the coil of
+wire at his side. The tool kit was the ultimate in maintenance work,
+compact and complete with extension handles for the cutters and
+wrenches. Everything was there, but practically impossible to use. His
+fingers finally closed over the wire; he jerked it out and with it the splice
+tool. The little pliers caromed from the brace above him and sailed out
+toward the motor, beyond the ship. He watched, horrified, as the tool
+slowly cartwheeled away into space.
+"All right," he muttered, "scratch one splice tool. It was also my only pair
+of pliers, but I'll manage." He knew he could use the wire cutters in a
+pinch. "In a pinch," he repeated. "Oh, that's a hot one. That's about all
+that's happened this trip, so far. Pinch me, pinch the wiring--What a
+pinch!"
+
+*****
+Holding the roll of wire tightly in one hand, he grasped the cutters and
+pulled them from the kit with utmost care. He unrolled a foot-long section
+of wire and clipped it off, laying his flashlight in the tool kit so that it
+would shine out in front of him. He managed to attach the tiny splice lugs
+by pinching them with the cutters, then moved cautiously to the wire
+which still drooped from the jumble of machinery. "Drooped" wasn't
+precisely the word; actually the wire had been bent into its position and
+stayed that way.
+As the harried major reached for the brace on which the wire had been
+bracketed, his tool kit vomited flashlight, wrenches and screwdrivers,
+leaving him in total darkness. His cursing was regular, now, monotonous
+and uninspired. There was another pencil light in the kit, snapped tightly
+to the case, and Mac reached for the whole business. The spare light was
+a maintenance problem in itself. Question: How to retrieve a fountain pen
+sized object, when it's held by a small snap and the retriever is
+encumbered by three pairs of arctic mittens?
+Mac saw his errant flashlight out of the corner of his eye, its beam
+fastened on a collapsed screw driver while both swam sluggishly toward
+the inspection ladder. He located the pencil light and jerked it loose,
+holding the short wire and cutters in his other hand.
+This, Mac knew, was the crucial point. If he could splice the wire hanging
+in front of him, Valier would once more be in perfect shape. He would
+have welcomed an extra hand or two, as he straddled a brace and shoved
+the tiny flash between his headpiece and shoulder fabric. The wire should
+be stripped, he knew, but he hadn't the tools. They were scarcely ten feet
+from him, but could have rested atop the Kremlin for all the good they did
+him. He got most of the strands of one end of wire shoved into a splice
+lug, and called it good enough. It was like trying to thread a needle whose
+eye was deeper than it was wide, while in a diving suit, using the business
+end of a paintbrush to start the thread.
+He withdrew one hand and searched the kit for friction tape. It might be
+mentioned that an insulating tape which would be adhesive at minus two
+
+hundred degrees centigrade yet keep its properties at plus one thousand,
+was the near culmination of chemical science. Silicon plastic research
+provided the adhesive, an inert gum which changed almost none through
+a fantastic range of temperatures and pressures. The tape Mac used to
+insure his connection had an asbestos base, with adhesive gum insinuated
+into the tape. He wrapped the wire tightly, then bound it to the brace. He
+noticed his visor fogging up and felt a faint, giddy sensation. Anoxemia!
+He let the tape drift as he reached for his regulator dial. What a fool he
+was, he thought, to starve his lungs. He turned the dial to emergency
+maximum and gulped precious liters of oxygen-helium mixture. The
+gauge showed a store of the gas which might possibly be enough to last
+him, if nothing else went wrong; perhaps ten minutes.
+The pencil flash, mercifully, still rested in a fold of his shoulder joint
+fabric. The insulation tape floated near his waist; he grabbed it and
+stowed it between his knee and the brace, then reached once again for
+the wiring.
+This time the splice went on without a hitch. He pinched the splice lug and
+taped the whole works feverishly. It was done; he had won. The trip back
+should take only a couple of minutes. Replacing the wire cutters in his kit,
+he held the pencil flash before him and started retracing his route.
+He passed the twelve o'clock brace, pinned it in place again and saw one
+of his tools floating to the right of his head. He gathered it in and swept
+his tiny flash around in search of other jetsam from his tool kit. He
+collected a wrench and the skittish flashlight, started toward the last
+brace between him and the ladder, and felt his legs go limp. He wasn't
+particularly alarmed about it; his arms and vision failed him too, but his
+brain hadn't enough incoming oxygen to care much, one way or the
+other. The few remaining feet seemed to lengthen into a sewerlike
+passageway, then vanished as did all else as his perceptions died.
+*****
+MacNamara was not the sort to wonder about heaven or hell when he first
+awoke. He saw a faintly rounded ceiling, a soft yellow tint accentuating its
+featurelessness. "How the devil--", he began. His voice failed him.
+
+"Hi, Mac." Logan's beaming face loomed over him. "You rugged character,
+you. Cold as a pickle an hour ago, and already you're askin' silly
+questions." He held up his hand as Mac started to speak. "I hear you
+thinkin'. 'How the devil did I get here, and where is here?' In reverse
+order, this is the most comfortable berth in the doughnut's facilities, and
+you got here courtesy of one Johnny Ruiz. Myself, I wouldn't have taken
+the trouble."
+Mac grinned back at his pilot and cleared his throat. "Well, where is he? I
+wanta shake his hand, or give him half my kingdom, or something."
+"You know Johnny; the shy type. He'll be along after a while. You know, I
+think he kinda likes you; when you quit transmitting out there, Johnny
+was like a cat on a hot skillet. Finally decided to go back and have a look
+for himself, but I told him you probably had a hot game of solitaire going.
+Anyway, he went back and found you asleep on the job, and lost a good
+ten pounds getting your fat carcass through the air lock." That was a job
+that must have taxed both Ruiz and Logan, but Mac held his silence. "And
+that was about the size of it. Valier's parked outside with some of the
+boys, good as ever. Come on, we'll sop up some coffee."
+Mac swung himself up to a sitting position and realized dizzily that he was
+mother-naked. His ribs felt pulverized. "You guys sure mauled me up," he
+said accusingly.
+"Unavoidable, my dear grease-monkey. You needed a little artificial
+respiration; I never was too good at that."
+"Well, whoever did the job rates a prize of some sort," Mac answered,
+"but my ribs tell me he had more enthusiasm than practice."
+Logan smiled his old familiar smile, relieved to find his engineer in joking
+spirits. "The credit again goes to Johnny. But," he added, "try not to be
+too hard on him. Try giving artificial respiration to a big lump like yourself
+sometime, without any gravity."
+
+Mac digested this tidbit as he pulled on a fresh pair of coveralls. "O.K.,"
+he said, standing on the foamex "floor." "How did he do it?"
+"Strapped you into your couch face down and locked his legs around it. I
+didn't dare apply any g's. Come on," he finished, "you've managed to
+upset every timetable in the project. Johnny's shaking like a leaf, or was
+when I left him. A bulb of coffee will do us both a world of good."
+"I'm sold," Mac grunted, zipping up a flight boot. "But there's something
+I'd like to do, first chance I get."
+"Which is?"
+"Which is jettison every last strip of tape I have in Valier. I tell you,
+Logan," he went on as they entered the recreation bar, "you'll never know
+how degrading it is to hear useless, insipid information offered to you
+when you're in a tight spot, knowing full well the voice is your own!"
+
+

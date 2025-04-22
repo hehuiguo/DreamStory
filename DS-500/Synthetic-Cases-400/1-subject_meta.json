@@ -1,0 +1,1113 @@
+{
+    "character_type_list": [
+        "Boy",
+        "Man",
+        "Woman",
+        "Girl",
+        "Teenager",
+        "Mother",
+        "Cat",
+        "Dog",
+        "Wizard",
+        "Pirate",
+        "Chef",
+        "Knight",
+        "Singer",
+        "Mermaid",
+        "Scientist",
+        "Ballerina",
+        "Detective",
+        "Nurse",
+        "Soldier",
+        "Teacher",
+        "Pilot",
+        "Farmer",
+        "Astronaut",
+        "Firefighter",
+        "Vampire",
+        "Witch",
+        "Elf",
+        "Journalist",
+        "Robot",
+        "Baker",
+        "Cowboy",
+        "Ninja",
+        "Clown",
+        "Samurai",
+        "Spy",
+        "Athlete",
+        "Dancer",
+        "Librarian",
+        "Mountaineer",
+        "Architect",
+        "Tourist",
+        "Gamer",
+        "Photographer",
+        "Inventor",
+        "Historian",
+        "Artist",
+        "Sculptor",
+        "Poet",
+        "Fisherman",
+        "Magician",
+        "Monk",
+        "Viking",
+        "Doctor",
+        "Gardener",
+        "Zookeeper",
+        "Veterinarian",
+        "Florist",
+        "Acrobat",
+        "Ringmaster",
+        "Puppeteer",
+        "Mime",
+        "Snowboarder",
+        "Surfer",
+        "Skateboarder",
+        "Gymnast",
+        "Swimmer",
+        "Boxer",
+        "Wrestler",
+        "Dragon",
+        "Ghost",
+        "Queen",
+        "Alien",
+        "Explorer",
+        "Fairy",
+        "Giant",
+        "Gnome",
+        "Jester",
+        "King",
+        "Ogre",
+        "Peasant",
+        "Princess",
+        "Sailor",
+        "Sorcerer",
+        "Squire",
+        "Thief",
+        "Warrior",
+        "Zombie",
+        "Archer",
+        "Bard",
+        "Butler",
+        "Caveman",
+        "Centaur",
+        "Changeling",
+        "Courtesan",
+        "knight",
+        "Cyclops",
+        "Demigod",
+        "Druid",
+        "Enchantress",
+        "Gladiator",
+        "Gypsy",
+        "Harpy",
+        "Illusionist",
+        "Imp",
+        "Innkeeper",
+        "Judge",
+        "Leprechaun",
+        "Martyr",
+        "Minotaur",
+        "Mummy",
+        "Muse",
+        "Necromancer",
+        "Paladin",
+        "Phoenix",
+        "Pixie",
+        "Prophet",
+        "Ranger",
+        "Reaper",
+        "Rebel",
+        "Siren",
+        "Sphynx",
+        "Succubus",
+        "Superhero",
+        "Troll",
+        "Valkyrie",
+        "Warlock",
+        "Werewolf",
+        "Wraith",
+        "Yeti",
+        "Yogini",
+        "Zephyr",
+        "Alchemist",
+        "Djinn"
+    ],
+    "character_short_prompts_list": [
+        "Young boy with oversized goggles and cape",
+        "Elderly gentleman with monocle",
+        "A vibrant street artist with rainbow-dyed hair and tattoos.",
+        "Girl in princess costume",
+        "Teenage skateboarder with headphones",
+        "Nurturing mother with newborn",
+        "Siamese cat, aristocratic, imperious look",
+        "Playful golden dog with a ball.",
+        "Ancient wizard with wand.",
+        "Pirate captain with hook hand and parrot.",
+        "Italian chef with mustache",
+        "Mounted knight with lance.",
+        "Glamorous pop star with sparkling dress and microphone.",
+        "Mystical mermaid with iridescent scales",
+        "Focused scientist in lab coat",
+        "Ballerina in tutu performing pirouette.",
+        "Detective with trench coat and fedora",
+        "Caring nurse in scrubs",
+        "Camouflaged soldier, unyielding spirit.",
+        "Educational teacher with chalk",
+        "Confident pilot with sunglasses",
+        "Farmer with straw hat",
+        "Adventurous astronaut in space.",
+        "Heroic firefighter with rescued child.",
+        "Charismatic vampire in velvet cape",
+        "A cunning witch with a cauldron.",
+        "Agile elf with bow and arrow",
+        "Inquisitive journalist with a camera.",
+        "Peaceful robot with glowing eyes.",
+        "Baker with cookies.",
+        "Rugged cowboy on wild stallion.",
+        "Black ninja with katana",
+        "Colorful juggling clown with oversized shoes.",
+        "Samurai with katana.",
+        "Cool spy in a tuxedo",
+        "Victorious Athlete",
+        "Street breakdancer",
+        "Stern librarian with glasses",
+        "Adventurous mountaineer",
+        "Visionary architect with blueprints.",
+        "Tourist with a camera and map.",
+        "Intense gamer with controller",
+        "Nature photographer",
+        "Goggled inventor with blueprints and gadgets.",
+        "Scholarly historian, ancient scrolls.",
+        "abstract artist with vibrant colors",
+        "meticulous sculptor",
+        "Poet gazing out a window.",
+        "Weathered fisherman at dawn",
+        "Flamboyant Magician with Rabbit",
+        "Monk in orange robes",
+        "Viking warrior with an axe",
+        "dedicated doctor with stethoscope",
+        "Green-thumbed gardener pruning a rose bush.",
+        "Zookeeper feeding a giraffe.",
+        "Compassionate veterinarian with puppy in clinic.",
+        "A creative florist with scissors.",
+        "Circus Acrobat",
+        "Charismatic ringmaster with a whip under dazzling lights.",
+        "Gentle puppeteer with marionette.",
+        "A silent mime in an invisible box.",
+        "Extreme snowboarder",
+        "Surfer riding a wave",
+        "Skateboarder performing a rail grind.",
+        "Flexible gymnast on balance beam",
+        "Competitive swimmer",
+        "Determined boxer",
+        "Muscular wrestler lifting opponent",
+        "Majestic dragon on cliff",
+        "A translucent, chain-rattling ghost.",
+        "A regal queen, crown, velvet robe, scepter.",
+        "Iridescent-skinned alien",
+        "Female explorer with map and compass.",
+        "Tiny fairy with wand",
+        "Towering giant with cloud-tangled hair",
+        "Cheeky fishing gnome with a red hat",
+        "Jester with colorful hat and infectious laughter.",
+        "Wise, aging king on golden throne.",
+        "Ogre guarding cave",
+        "humble peasant woman with a garden",
+        "Beautiful princess with cascading hair and sparkling tiara.",
+        "tattooed sailor",
+        "A sorcerer casting a spell.",
+        "Eager squire polishing armor.",
+        "Masked thief with loot.",
+        "Painted warrior with axe.",
+        "Shambling zombie.",
+        "Female archer aiming",
+        "Charismatic bard with lute",
+        "Dignified butler with silver tray",
+        "Caveman with club",
+        "Archer centaur on plains",
+        "Mysterious changeling",
+        "Elegant courtesan with fan",
+        "A fervent knight",
+        "Solitary cyclops blacksmith",
+        "Noble demigod with lightning powers",
+        "A wise druid with a leaf cloak.",
+        "A captivating enchantress in mesmerizing robes.",
+        "Valiant gladiator with gleaming helmet",
+        "Fortune-teller with crystal ball",
+        "Fearsome harpy",
+        "Enigmatic illusionist with cards",
+        "mischievous imp",
+        "Warm-hearted innkeeper",
+        "Stern judge with gavel.",
+        "Crafty leprechaun, red beard, green coat, guarding gold.",
+        "A courageous martyr",
+        "Menacing Minotaur with Axe",
+        "Ancient mummy with cursed jewels.",
+        "Ethereal muse",
+        "Dark necromancer summoning spirits.",
+        "Righteous Paladin with Shining Armor and Hammer",
+        "Flaming phoenix rising from ashes.",
+        "Playful pixie with sparkling dust.",
+        "visionary prophet",
+        "Forest Ranger with Longbow",
+        "Solemn reaper with a scythe",
+        "A fierce female rebel",
+        "Seductive siren on rocky perch.",
+        "Riddle-speaking sphinx",
+        "Sultry succubus with irresistible allure.",
+        "Superhero on skyscraper",
+        "Gruff troll under a bridge",
+        "Majestic Valkyrie with sword and helmet",
+        "A cunning warlock with glowing pentagrams.",
+        "Moonlit werewolf",
+        "A ghostly wraith.",
+        "Reclusive yeti",
+        "A serene yogini",
+        "A personified gentle breeze.",
+        "Medieval alchemist with flask",
+        "Powerful djinn with a deceptive smile"
+    ],
+    "character_prompts_list": [
+        "A young boy wearing oversized goggles and a handmade cape, pretending to be a superhero on a playground.",
+        "A distinguished gentleman with a monocle, sporting a perfectly trimmed white beard, in a tailored suit.",
+        "A vibrant street artist, with rainbow-dyed hair and tattoos, wearing overalls splattered with paint.",
+        "A girl in a princess costume with a tiara, holding a wand, dreaming of fairytales in her backyard.",
+        "A skateboarder with headphones, executing a perfect kickflip, wearing a hoodie and ripped jeans.",
+        "A nurturing mother with a gentle smile, cradling a newborn, wrapped in a soft, blue blanket.",
+        "An aristocratic Siamese cat, lounging on a velvet cushion, with an imperious look.",
+        "A joyful golden dog, with a wagging tail and a slobbery ball in its mouth, ready to play fetch.",
+        "An ancient wizard with flowing robes, a long beard, and a pointed hat, casting a spell with a gnarled wand.",
+        "A fierce pirate captain with a hook hand, a parrot on their shoulder, standing boldly on the deck of a ship.",
+        "A passionate Italian chef with a mustache, tossing pizza dough in the air, wearing a white apron and a tall chef’s hat.",
+        "A valiant knight in shining armor, holding a lance, mounted on a majestic steed.",
+        "A glamorous pop star on stage, with a sparkling dress and a microphone, in the midst of hitting a high note.",
+        "A mystical mermaid with iridescent scales and flowing hair, perched on a rock at sea.",
+        "A focused scientist in a lab coat, peering into a microscope, surrounded by bubbling test tubes.",
+        "A graceful ballerina on tiptoe, in a tutu, performing an elegant pirouette under the spotlight.",
+        "A shrewd detective in a trench coat and fedora, magnifying glass in hand, examining a clue.",
+        "A compassionate nurse in scrubs, offering comfort with a reassuring smile, holding a patient’s hand.",
+        "A brave soldier in camouflage, standing at attention, displaying an unyielding spirit.",
+        "An inspiring teacher in front of a classroom, chalk in hand, turning towards a chalkboard full of equations.",
+        "A confident pilot in a uniform, sunglasses on, walking towards a jumbo jet under the bright sky.",
+        "A dedicated farmer at dawn, wearing a straw hat, tending to their crop fields with a hoe.",
+        "An adventurous astronaut in a suit, floating in zero gravity, against the backdrop of Earth from space.",
+        "A heroic firefighter in gear, emerging from smoke, hoisting a rescued child on their shoulders.",
+        "A charismatic vampire in a velvet cape, with fangs revealed, under the glow of the full moon.",
+        "A cunning witch with a pointed hat, stirring a bubbling cauldron, surrounded by spell books and potions.",
+        "An agile elf with pointy ears, wielding a bow and arrow, in the heart of an enchanted forest.",
+        "An inquisitive journalist with a notepad, asking pressing questions, camera slung over their shoulder.",
+        "A sleek, humanoid robot with glowing eyes, extending a metal hand in a gesture of peace.",
+        "A cheerful baker in a flour-dusted apron, presenting a tray of freshly baked cookies, the aroma filling the air.",
+        "A rugged cowboy with a wide-brimmed hat, riding a wild stallion across the open plains.",
+        "A stealthy ninja in black, leaping across rooftops under the cover of night, katana at the ready.",
+        "A colorful clown with a red nose and oversized shoes, juggling brightly colored balls with a big smile.",
+        "A stoic samurai in traditional armor, standing poised with a katana, amidst falling cherry blossoms.",
+        "A cool spy in a tuxedo, whispering into an earpiece, eyes scanning the room over a martini glass.",
+        "A determined athlete crossing the finish line, arms raised in victory, sweat glistening on their brow.",
+        "A dynamic breakdancer on the street, spinning on one hand, with a crowd gathered around.",
+        "A stern librarian with glasses at the tip of their nose, shushing patrons, surrounded by towering bookshelves.",
+        "An adventurous mountaineer, against a backdrop of snowy peaks, planting a flag at the summit.",
+        "A visionary architect, rolling out blueprints on a drafting table, pencil tucked behind their ear.",
+        "A wide-eyed tourist with a camera around their neck, consulting a map, standing in front of a famous landmark.",
+        "An intense gamer, eyes glued to the screen, controller in hand, immersed in a virtual battle.",
+        "A keen photographer, peering through a lens, capturing a breathtaking moment in nature.",
+        "An eccentric inventor, surrounded by gadgets and blueprints, adjusting their goggles in anticipation of a breakthrough.",
+        "A studious historian, surrounded by ancient scrolls, deciphering texts under the dim light of a study lamp.",
+        "An abstract artist, brush in hand, covering a canvas with bold strokes of vibrant colors.",
+        "A meticulous sculptor, chiseling into stone, creating a masterpiece from a block of marble.",
+        "A reflective poet, gazing out a window, pen in hand, composing verses inspired by the falling rain.",
+        "A weathered fisherman, at the helm of a boat, casting a net into the dawn-lit sea.",
+        "A flamboyant magician, waving a wand, making a rabbit appear out of a top hat to the delight of an audience.",
+        "A serene monk in orange robes, meditating in peace, amidst the tranquility of an ancient temple.",
+        "A fearsome Viking warrior with braided beard, wielding an axe, aboard a dragon-headed longship.",
+        "A dedicated doctor, in a white coat, consulting a patient's chart, stethoscope around their neck.",
+        "A green-thumbed gardener, pruning a rose bush, surrounded by a blossoming garden.",
+        "An enthusiastic zookeeper, feeding a giraffe, surrounded by curious onlookers.",
+        "A compassionate veterinarian, gently examining a puppy, stethoscope in hand, in a clinic.",
+        "A creative florist, arranging a bouquet of colorful flowers, scissors in hand, lost in the fragrance.",
+        "A daring acrobat, leaping between trapezes, the circus tent buzzing with excitement.",
+        "A charismatic ringmaster, announcing the next act, whip in hand, under the big top's dazzling lights.",
+        "A gentle puppeteer, bringing a wooden marionette to life, strings deftly manipulated in a quiet room.",
+        "A silent mime, trapped in an invisible box, drawing smiles and curious glances on a city street.",
+        "An extreme snowboarder, carving down a snowy slope, snow spraying in a bright sunbeam.",
+        "A carefree surfer, riding a towering wave, the ocean roaring around them.",
+        "A fearless skateboarder, grinding down a rail, cap turned backward, audience cheering.",
+        "A flexible gymnast, leaping on a balance beam, concentration etched into their focused gaze.",
+        "A determined swimmer, cutting through the water, on the verge of breaking a record.",
+        "A gritty boxer, gloves raised, weaving and dodging, eyes fierce with the will to win.",
+        "A bold wrestler, lifting an opponent high, ready to slam them down to the mat, muscles straining.",
+        "A majestic dragon perched atop a rocky cliff, scales glinting in the sun, wings folded, smoke drifting from its nostrils.",
+        "A wispy ghost, translucent and floating, eyes glowing softly in the dark, chains rattling eerily.",
+        "A regal queen, crown gleaming, robed in velvet and ermine, scepter in hand, an air of authority and grace.",
+        "A curious alien, skin glimmering in iridescent hues, large eyes brimming with wonder, antennas twitching.",
+        "An intrepid explorer, map in hand, compass dangling from her neck, standing at the edge of an uncharted jungle.",
+        "A tiny fairy, wings fluttering rapidly, casting spells with a tiny wand, surrounded by a halo of light.",
+        "A towering giant, smiling down at the world below, trees used as toothpicks, clouds tangling in his hair.",
+        "A cheeky gnome, red hat wrinkled, fishing in a tiny pond, beard reaching down to his toes.",
+        "A lively jester, bells jingling on his colorful hat, doing cartwheels, his laughter infectious.",
+        "A wise king, beard streaked with gray, sitting on a golden throne, a crown resting heavily on his brow.",
+        "A daunting ogre, club slung over his shoulder, skin a mossy green, scowling at intruders from his cave entrance.",
+        "A humble peasant, clothes patched and worn, tending to her garden, a smile of simple contentment on her face.",
+        "A beautiful princess, hair cascading in waves, a tiara sparkling, looking longingly out of a castle window.",
+        "A seasoned sailor, tattooed arms steering the ship, the ocean spray misting his bearded face, eyes on the horizon.",
+        "A powerful sorcerer, cloak adorned with mystical symbols, casting a spell, the air crackling with magic.",
+        "A loyal squire, eager and youthful, polishing a suit of armor, dreaming of knighthood, under the watchful eye of his mentor.",
+        "A cunning thief, masked and nimble, slipping through shadows, bag of loot over his shoulder, escaping into the night.",
+        "A fierce warrior, painted for battle, wielding a double-edged axe, shouting a war cry, leading the charge.",
+        "A shambling zombie, flesh peeling, eyes hollow, moaning faintly, reaching out as it lumbers forward.",
+        "A skilled archer, bowstring taut, arrow nocked, concentration etched on her face, aiming at the distant target.",
+        "A charismatic bard, strumming a lute, voice carrying tales of old, captivating an audience around the fire.",
+        "A dignified butler, suit impeccable, offering a silver tray with a bow, the epitome of service and discretion.",
+        "A rugged caveman, club slung over his shoulder, skin clad in furs, lighting a fire with flint and tinder.",
+        "A majestic centaur, human torso merging with horse, galloping across the plains, bow at the ready.",
+        "A mysterious changeling, features shifting subtly, eyes gleaming with secrets, blending into the crowd.",
+        "A beguiling courtesan, gown of silk and lace, fan fluttering coquettishly, mastering the art of conversation.",
+        "A determined knight, cross emblazoned on his shield, sword raised, a bastion of faith and ferocity.",
+        "A solitary cyclops, eye glaring, forging weapons in the depths of his cave, the echo of his hammer ringing out.",
+        "A noble demigod, strength and wisdom in his bearing, lightning crackling at his fingertips, standing atop Mount Olympus.",
+        "A wise druid, cloak of leaves, communing with the spirits of nature, standing stone circles whispering ancient secrets.",
+        "A captivating enchantress, swirling in robes of mesmerizing patterns, casting spells with a gaze, ensnaring hearts.",
+        "A valiant gladiator, helmet gleaming, shield and sword at the ready, adrenaline coursing as he enters the arena.",
+        "A free-spirited gypsy, scarves billowing, crystal ball glowing, reading fortunes under the moonlight.",
+        "A fearsome harpy, wings beating the air, talons sharp, screeching as she swoops down upon her quarry.",
+        "An enigmatic illusionist, cards fluttering between fingers, a smile playing on his lips, leaving the audience in awe.",
+        "A mischievous imp, pointed ears twitching, grinning as he concocts another prank, vanishing in a puff of smoke.",
+        "A warm-hearted innkeeper, wiping glasses behind the bar, welcoming weary travelers with a roaring fire and a hearty meal.",
+        "A stern judge, gavel in hand, eyes piercing through spectacles, weighing justice with an unwavering resolve.",
+        "A crafty leprechaun, red beard and green coat, guarding his pot of gold at the end of the rainbow, cackling with delight.",
+        "A brave martyr, eyes alight with conviction, facing his fate with courage, inspiring those who bear witness.",
+        "A menacing minotaur, labyrinthine home echoing with his roars, axe swinging, waiting for challengers.",
+        "An ancient mummy, wraps fraying, emerging from the sarcophagus, cursed jewels glinting in the torchlight.",
+        "An ethereal muse, inspiring creativity with her presence, floating just beyond reach, a spark of divine inspiration.",
+        "A dark necromancer, summoning spirits from the beyond, a vortex of shadows swirling, the dead whispering secrets.",
+        "A righteous paladin, armor shining with holy light, hammer held high, standing against the darkness.",
+        "A glorious phoenix, flames wreathing its body as it rises from ashes, a cry piercing the dawn, symbol of rebirth.",
+        "A playful pixie, darting among the flowers, laughter like bells, leaving a trail of sparkling dust.",
+        "A visionary prophet, eyes ablaze with visions of the future, voice echoing with prophecies, followers hanging on every word.",
+        "A rugged ranger, cloak blending with the forest, longbow slung over his shoulder, tracking through the wilderness.",
+        "A solemn reaper, scythe glinting, cloak billowing, guiding souls to the afterlife, an eternal cycle of life and death.",
+        "A fierce rebel, bandana waving, rallying the oppressed, a spark of revolution in her eyes, leading the charge for freedom.",
+        "A seductive siren, voice weaving a spell over the seas, sailors drawn to their doom, waves crashing around her rocky perch.",
+        "A riddle-speaking sphinx, lion's body at rest, human head pondering, challenging travelers with enigmas.",
+        "A sultry succubus, wings unfurling in the shadows, allure irresistible, weaving dreams into nightmares.",
+        "A dynamic superhero, cape billowing, standing atop a skyscraper, ready to leap into action at a moment's notice.",
+        "A gruff troll, lurking under a bridge, features knotted in suspicion, demanding tribute from travelers.",
+        "A majestic Valkyrie, helmet shining, sword aloft, riding a winged horse through the storm clouds, choosing the slain.",
+        "A cunning warlock, pentagrams glowing, summoning infernal powers, ambition smoldering in his eyes.",
+        "A ferocious werewolf, fur bristling in the moonlight, howling, poised between the worlds of man and beast.",
+        "A chilling wraith, cloak flowing like mist, face a void of darkness, drifting through walls, a harbinger of doom.",
+        "A reclusive yeti, fur thick with snow, eyes peering curiously from a cave, footsteps disappearing into the blizzard.",
+        "A serene yogini, limbs entwined in a complex pose, breathing deep, a calm oasis in the midst of chaos.",
+        "A gentle zephyr, a breeze personified, whispering through the trees, carrying the scent of spring, unseen but felt.",
+        "A medieval alchemist, surrounded by ancient tomes, pouring over a steaming flask, in search of the philosopher's stone.",
+        "A powerful djinn, emerging from an ancient lamp in a swirl of smoke, granting wishes with a deceptive smile."
+    ],
+    "scene_prompts_list": [
+        [
+            "A shambling zombie lumbers through a foggy, dilapidated graveyard, with tattered clothes and eerie, glowing eyes."
+        ],
+        [
+            "A detective in a trench coat and fedora stands under a dim streetlight, peering through a magnifying glass, with a foggy cityscape in the background."
+        ],
+        [
+            "An abstract artist, palette in hand, splashes vibrant colors across a large canvas in a sunlit studio, surrounded by scattered paint tubes and brushes."
+        ],
+        [
+            "A compassionate veterinarian gently examines a small, fluffy puppy on an examination table in a well-lit clinic, surrounded by medical equipment and animal posters on the walls."
+        ],
+        [
+            "A mounted knight in shining armor, wielding a long lance, gallops across a grassy meadow under a clear blue sky."
+        ],
+        [
+            "A masked thief in a dark cloak dashing through a moonlit alley, clutching a bag of glittering jewels, with old brick buildings on either side."
+        ],
+        [
+            "A female explorer, dressed in a rugged outfit, stands on a rocky cliff, holding a map and compass, gazing out over a misty, dense jungle below."
+        ],
+        [
+            "A competitive swimmer dives gracefully into an Olympic-sized pool, creating a splash, with focused eyes and powerful strokes, racing against time in a crowded, cheering stadium."
+        ],
+        [
+            "A werewolf howling under a full moon, its fur glistening in the moonlight, standing on a misty, forested hilltop, with dark trees silhouetted against the night sky."
+        ],
+        [
+            "A superhero stands heroically atop a skyscraper, cape billowing in the wind, overlooking the bustling cityscape at sunset."
+        ],
+        [
+            "A painted warrior wielding an axe, stands amidst a misty forest, his face marked with bold tribal patterns, ready for battle."
+        ],
+        [
+            "A meticulous sculptor, surrounded by marble dust, chisels away at a giant block of marble, creating a lifelike statue under the soft glow of a skylight."
+        ],
+        [
+            "A goggled inventor, surrounded by scattered blueprints and quirky, gleaming gadgets, works tirelessly in a cluttered, dimly-lit workshop."
+        ],
+        [
+            "A sorcerer in a flowing robe stands atop a cliff at sunset, casting a spell with a glowing staff, magical runes floating around, and a fierce wind billowing his cloak."
+        ],
+        [
+            "A tourist with a camera slung over their shoulder, intently studying a map, stands at a bustling city crossroads, surrounded by iconic landmarks under a clear blue sky."
+        ],
+        [
+            "A lithe circus acrobat performs a graceful mid-air split, suspended by a silk ribbon under the big top's dazzling lights."
+        ],
+        [
+            "A female archer in a forest, her focus intense as she aims her bow at a distant target, sunlight filtering through the trees, casting shadows and highlights on her determined face."
+        ],
+        [
+            "A Viking warrior stands on a rocky shoreline, wielding a large axe, with a stormy sea and dark clouds in the background."
+        ],
+        [
+            "A mountaineer stands triumphantly at the peak of a snow-capped mountain, planting a flag, with a clear blue sky and distant mountains in the background."
+        ],
+        [
+            "A nature photographer capturing a stunning sunset in a vast, serene landscape, camera on a tripod, focusing intently on the horizon where the sun meets the earth."
+        ],
+        [
+            "A beautiful princess with long, cascading hair and a sparkling tiara stands gracefully in a lush, enchanted forest, surrounded by twinkling fireflies."
+        ],
+        [
+            "A zookeeper with a bucket of leaves, extending their arm to feed a tall, spotted giraffe amidst the lush greenery of a zoo enclosure."
+        ],
+        [
+            "A flamboyant magician in a sparkling purple suit pulls a white rabbit from his top hat on a moonlit stage, with twinkling stars in the background."
+        ],
+        [
+            "An educational teacher stands in front of a blackboard, holding chalk, mid-stroke as they turn to explain the concept to an unseen class."
+        ],
+        [
+            "A joyful golden retriever, tongue out, prancing on a sunny park lawn with a bright blue ball in its mouth."
+        ],
+        [
+            "A playful golden dog with a shiny red ball in its mouth, running joyously across a sunlit grassy field, tail wagging energetically."
+        ],
+        [
+            "A charismatic bard, with a gleaming lute in hand, stands on a cobblestone street, captivating a diverse crowd with a heartfelt melody under the soft glow of lantern light."
+        ],
+        [
+            "A surfer with sun-bleached hair rides a towering, crystal-blue wave, balancing expertly on a brightly colored surfboard, with the sun setting in the background casting an orange glow over the ocean."
+        ],
+        [
+            "An iridescent-skinned alien stands in a lush, glowing forest with bioluminescent plants and floating light orbs, holding a transparent, holographic map."
+        ],
+        [
+            "An inquisitive journalist with a camera, snapping photos in a bustling city square, capturing the essence of urban life, with curious eyes and a keen focus."
+        ],
+        [
+            "A charismatic vampire in a velvet cape stands under a full moon, his piercing gaze and sharp fangs gleaming in the moonlight, exuding an aura of mystery and allure."
+        ],
+        [
+            "A sultry succubus stands in a dimly lit, opulent boudoir, her wings gently unfurled, casting an irresistible gaze towards the viewer, surrounded by flickering candles and velvet drapes."
+        ],
+        [
+            "A caring nurse in scrubs gently tends to a patient in a bright, sunlit hospital room, surrounded by blooming flowers on the windowsill."
+        ],
+        [
+            "A determined boxer, muscles tense, stands in a dimly lit gym, fists wrapped, staring intently at a heavy punching bag, ready to strike. Sweat beads on his forehead, reflecting his focus and resolve."
+        ],
+        [
+            "An astronaut floats above Earth, tethered to the International Space Station, with a background of glittering stars and the sun peeking over the planet's horizon."
+        ],
+        [
+            "A nurturing mother tenderly cradles her sleeping newborn, their faces illuminated by the soft glow of a bedside lamp, in a cozy, moonlit nursery."
+        ],
+        [
+            "A solitary cyclops blacksmith, muscular and towering, forges a sword in a dimly lit, rustic workshop filled with anvils and glowing embers."
+        ],
+        [
+            "A pirate captain with a hook hand stands on the deck of a ship, a colorful parrot perched on his shoulder, both gazing towards the horizon."
+        ],
+        [
+            "A righteous paladin in shining armor stands on a grassy hill, poised with a gleaming hammer, as sunlight casts dramatic shadows around him."
+        ],
+        [
+            "A regal queen in a velvet robe, holding a scepter, sits on a golden throne adorned with rubies, her crown catching the light."
+        ],
+        [
+            "A warm-hearted innkeeper, smiling broadly, stands at the entrance of a cozy, rustic inn, holding a lantern that casts a soft glow, welcoming weary travelers as dusk settles over the quaint village."
+        ],
+        [
+            "A doctor in a white coat stands in a hospital hallway, stethoscope around their neck, a look of determination in their eyes."
+        ],
+        [
+            "A mime with white face paint trapped in an invisible box, hands pressed against unseen walls, on a cobblestone street."
+        ],
+        [
+            "A tiny fairy with a shimmering wand flutters over a blooming daisy in a sunlit meadow, casting sparkling magic dust."
+        ],
+        [
+            "A Siamese cat with an imperious look sits on a luxurious velvet cushion, surrounded by ornate golden decorations, its blue eyes staring regally into the distance."
+        ],
+        [
+            "Under the brilliant circus tent lights, a charismatic ringmaster with a stylish hat confidently holds a whip, commanding attention at the center of the ring."
+        ],
+        [
+            "A wise, aging king with a silver beard sits majestically on a golden throne, adorned in royal robes, holding a scepter, in a grand, opulently decorated throne room."
+        ],
+        [
+            "An enigmatic illusionist in a dark cloak performs a card trick, with mysterious symbols glowing on the cards as they float in a semi-circle around him."
+        ],
+        [
+            "A serene yogini meditating peacefully beside a tranquil lake, surrounded by softly glowing lanterns under a starry twilight sky."
+        ],
+        [
+            "A cheeky fishing gnome wearing a bright red hat, perched on a small wooden stool by a tranquil pond, holding a fishing rod with a mischievous grin as a fish jumps playfully near his hook."
+        ],
+        [
+            "A glamorous pop star shines on stage with a sparkling dress, holding a glittering microphone under a bright spotlight."
+        ],
+        [
+            "A glamorous pop star in a sparkling dress, holding a microphone, stands under a spotlight on a concert stage with thousands of cheering fans in the background."
+        ],
+        [
+            "A glamorous pop star in a sparkling dress holds a microphone on a brightly lit stage, with confetti falling around her as she sings passionately to an adoring crowd."
+        ],
+        [
+            "An eager young squire, with short brown hair and a focused expression, diligently polishes a shining suit of armor in a sunlit medieval courtyard, surrounded by ancient stone walls and blooming flowers."
+        ],
+        [
+            "A playful pixie sprinkling sparkling dust over a lush, green forest, wings shimmering in the sunlight as delicate flowers bloom around her."
+        ],
+        [
+            "A confident pilot with sunglasses stands beside a sleek airplane, gazing at the horizon, with a clear blue sky in the background."
+        ],
+        [
+            "A brave figure stands defiantly in the center of a chaotic battlefield, arms outstretched, face resolute and peaceful, as the turmoil rages around them."
+        ],
+        [
+            "A courageous martyr stands defiantly in a war-torn city, holding a tattered flag, with smoke and ruins in the background, conveying a sense of resilience and sacrifice."
+        ],
+        [
+            "A vibrant jester, adorned with a multicolored hat, throws his head back in a fit of contagious laughter in a medieval court."
+        ],
+        [
+            "A colorful clown juggles vibrant balls in a circus ring, his oversized shoes comically sprawled as children cheer gleefully around him."
+        ],
+        [
+            "A noble demigod stands on a cliff, arms raised as lightning crackles between his fingertips, his eyes glowing with power, clouds roiling ominously above."
+        ],
+        [
+            "A muscular wrestler in a vibrant singlet lifts his opponent high above the mat in a crowded arena, showcasing his strength under the bright lights."
+        ],
+        [
+            "A victorious athlete standing on a podium, raising a gold medal high, with a crowd cheering in the background under a bright, sunny sky."
+        ],
+        [
+            "A reclusive yeti peeks curiously from behind a snow-draped pine, its ice-blue eyes gleaming against a blizzard-white fur."
+        ],
+        [
+            "A street breakdancer spins on his head on a vibrant graffiti-covered sidewalk, a crowd encircling him in awe."
+        ],
+        [
+            "An elderly gentleman with a monocle, sitting in a vintage armchair, reading a newspaper next to a crackling fireplace in a wood-paneled study."
+        ],
+        [
+            "An elderly gentleman with a monocle sits in a lush garden, reading a newspaper on a sunny afternoon, a serene smile on his face."
+        ],
+        [
+            "An elderly gentleman with a monocle sits in a lush garden, reading a newspaper on a sunny afternoon, a serene smile on his face."
+        ],
+        [
+            "A stoic samurai stands on a misty ancient Japanese bridge, gripping a katana with both hands, poised and ready, as cherry blossoms gently fall around him."
+        ],
+        [
+            "A translucent, chain-rattling ghost floats eerily through an ancient, moonlit library, its glowing form casting faint, flickering shadows over rows of dusty, leather-bound books."
+        ],
+        [
+            "A skateboarder expertly performs a rail grind on a vibrant urban skatepark rail, showcasing dynamic balance and focus."
+        ],
+        [
+            "A wise druid stands in an ancient forest, cloaked in leaves that blend with the surrounding foliage, staff in hand, a symbol of nature's power etched into the ground at their feet."
+        ],
+        [
+            "A serene monk in orange robes meditates beside a tranquil mountain stream, surrounded by lush greenery and soft morning light filtering through the trees."
+        ],
+        [
+            "A visionary architect unrolls detailed blueprints on a cluttered desk, pencil in hand, with a scale model of a futuristic building beside them."
+        ],
+        [
+            "A graceful ballerina in a white tutu performs a pirouette on a sunlit, wooden stage, her posture impeccable as she balances delicately on one toe."
+        ],
+        [
+            "A florist with an apron full of colorful flowers, holding scissors delicately, arranging a vibrant bouquet on a wooden table."
+        ],
+        [
+            "A mystical mermaid with iridescent scales lounges on a rock, her tail shimmering under the moonlight, as she combs her long, flowing hair by the serene ocean."
+        ],
+        [
+            "A caveman clad in furs stands in a rugged terrain, wielding a hefty wooden club over his shoulder, a fierce expression on his face."
+        ],
+        [
+            "A young boy wearing oversized goggles and a flowing cape stands on a windy hill, his arms outstretched as if ready to fly, looking towards the sky with excitement."
+        ],
+        [
+            "A firefighter in full gear cradles a soot-covered child against a backdrop of raging flames and billowing smoke."
+        ],
+        [
+            "A fierce female rebel stands defiantly in a dystopian cityscape, her leather jacket adorned with patches, holding a glowing futuristic weapon, her expression resolute under a stormy sky."
+        ],
+        [
+            "A fervent knight in shining armor stands proudly on a grassy hill, his sword raised towards the sky as the sun sets behind him, casting a golden glow over the landscape."
+        ],
+        [
+            "A mystical fortune-teller gazes into a glowing crystal ball, surrounded by dimly lit candles, inside a dark, tapestry-draped tent."
+        ],
+        [
+            "A mystical fortune-teller gazes into a glowing crystal ball, surrounded by dimly lit candles, with tarot cards scattered on a velvet tablecloth in a shadowy, tented room."
+        ],
+        [
+            "A fortune-teller peers into a glowing crystal ball, surrounded by tarot cards and candles, in a dim, mystical tent."
+        ],
+        [
+            "A young girl dressed in a sparkling princess costume stands in a lush, sunlit garden, holding a glittering wand and wearing a tiara, surrounded by colorful flowers and butterflies fluttering around."
+        ],
+        [
+            "A wise sphinx perched atop a stone pedestal, its tail curled around its paws, while a traveler stands before it, pondering a cryptic riddle."
+        ],
+        [
+            "A riddle-speaking sphinx perched atop a weathered stone pedestal, its wings partially unfolded, as it peers down curiously at an unseen visitor."
+        ],
+        [
+            "A majestic sphinx perched atop a sandstone pedestal, its eyes gleaming as it poses a riddle to a group of curious travelers gathered around in a desert setting, with ancient ruins and a setting sun in the background."
+        ],
+        [
+            "An ethereal muse, translucent and glowing, floats gracefully above a serene lake, her delicate wings shimmering in the moonlight, inspiring awe in the silent, starry night."
+        ],
+        [
+            "A seductive siren perched on a jagged, moss-covered rock, her long, flowing hair cascading down her shoulders as she sings into the misty ocean air, her tail shimmering under the moonlight."
+        ],
+        [
+            "A thoughtful poet, standing by a large open window, gazing deeply into a lush garden, with a quill and paper in hand, lost in inspiration."
+        ],
+        [
+            "A forest ranger with a longbow stands alert in a dense, misty forest, scanning the surroundings for signs of wildlife, the early morning light filtering through the towering trees."
+        ],
+        [
+            "A vibrant street artist with rainbow-dyed hair and tattoos paints a colorful mural on an urban brick wall, surrounded by cans of spray paint."
+        ],
+        [
+            "A vibrant street artist with rainbow-dyed hair and tattoos paints a large, colorful mural on an urban brick wall, her paint-stained fingers holding a brush, with various paint cans scattered around."
+        ],
+        [
+            "A street artist with rainbow-dyed hair and tattoos paints a colorful mural on an urban wall, surrounded by cans of spray paint."
+        ],
+        [
+            "A gruff troll with mossy green skin and wild hair sits under a stone bridge, clutching a wooden club, his eyes warily watching the quiet, trickling stream below."
+        ],
+        [
+            "A majestic flaming phoenix, with wings ablaze, rises from a pile of glowing ashes against a twilight sky, symbolizing rebirth and renewal."
+        ],
+        [
+            "A medieval alchemist in a dimly lit stone chamber, examining a glowing flask filled with a mysterious liquid, surrounded by ancient books and cluttered alchemical tools."
+        ],
+        [
+            "A cool spy in a tuxedo leans against a sleek black sports car under a dim streetlight, holding a silenced pistol."
+        ],
+        [
+            "A cunning warlock stands in a dimly lit chamber, holding a staff, with glowing pentagrams floating around him, casting eerie shadows on the ancient stone walls."
+        ],
+        [
+            "A rugged cowboy, clad in a weathered hat and leather chaps, rides a wild, muscular stallion across a dusty desert landscape, with a dramatic sunset casting long shadows."
+        ],
+        [
+            "A weathered fisherman, clad in a faded yellow raincoat, casts his line into the shimmering sea under the soft glow of dawn, his aged face contemplative and serene."
+        ],
+        [
+            "A towering giant with cloud-tangled hair stands amidst a misty forest, his head brushing against the swirling morning fog, eyes gazing thoughtfully into the distance."
+        ],
+        [
+            "A humble peasant woman, in a sunlit garden, tending to vibrant vegetables with a backdrop of blooming flowers."
+        ],
+        [
+            "A serene robot with soft, glowing eyes sits cross-legged in a tranquil forest clearing, surrounded by a gentle mist."
+        ],
+        [
+            "A black ninja with a katana stands poised atop a misty mountain under a full moon, his silhouette sharply outlined against the glowing sky, ready to strike."
+        ],
+        [
+            "A majestic dragon perches atop a rugged cliff, its scales shimmering in the sunset, wings slightly unfurled and eyes gazing across the vast landscape."
+        ],
+        [
+            "A gardener with a wide-brimmed hat and gloves carefully prunes a lush rose bush, surrounded by a vibrant garden."
+        ],
+        [
+            "A ghostly wraith hovers eerily over an ancient, moonlit graveyard, its translucent form swirling like mist as it glides between weathered tombstones, its faintly glowing eyes searching restlessly."
+        ],
+        [
+            "A captivating enchantress draped in shimmering, starlit robes stands at the heart of an ancient, moonlit forest, her hands aglow with an ethereal light."
+        ],
+        [
+            "A tattooed sailor with weathered skin, stands at a ship's helm, gazing towards the horizon, seabirds circling above."
+        ],
+        [
+            "A stern judge, wielding a gavel, sits at a high bench, peering over spectacles in a courtroom, poised to deliver a decisive verdict."
+        ],
+        [
+            "A fearsome harpy perched atop a craggy mountain peak, her wings spread wide against a stormy sky, eyes glowing, with rugged cliffs and dark clouds in the background."
+        ],
+        [
+            "An agile elf with a bow and arrow perched gracefully on a thick branch of an ancient forest tree, aiming at a distant target, surrounded by dense, misty woods."
+        ],
+        [
+            "A visionary prophet stands atop a windswept hill at sunset, gazing into the distance, a tattered cloak billowing around him as an ethereal light surrounds his figure, his staff planted firmly at his side."
+        ],
+        [
+            "An ancient wizard, cloaked in starlit robes, raises his wand towards a glowing, mystical orb floating amidst ancient runes, deep in an enchanted forest."
+        ]
+    ],
+    "scene_character_list": [
+        [
+            86
+        ],
+        [
+            16
+        ],
+        [
+            45
+        ],
+        [
+            55
+        ],
+        [
+            11
+        ],
+        [
+            84
+        ],
+        [
+            72
+        ],
+        [
+            65
+        ],
+        [
+            126
+        ],
+        [
+            122
+        ],
+        [
+            85
+        ],
+        [
+            46
+        ],
+        [
+            43
+        ],
+        [
+            82
+        ],
+        [
+            40
+        ],
+        [
+            57
+        ],
+        [
+            87
+        ],
+        [
+            51
+        ],
+        [
+            38
+        ],
+        [
+            42
+        ],
+        [
+            80
+        ],
+        [
+            54
+        ],
+        [
+            49
+        ],
+        [
+            19
+        ],
+        [
+            7
+        ],
+        [
+            7
+        ],
+        [
+            88
+        ],
+        [
+            62
+        ],
+        [
+            71
+        ],
+        [
+            27
+        ],
+        [
+            24
+        ],
+        [
+            121
+        ],
+        [
+            17
+        ],
+        [
+            66
+        ],
+        [
+            22
+        ],
+        [
+            5
+        ],
+        [
+            95
+        ],
+        [
+            9
+        ],
+        [
+            112
+        ],
+        [
+            70
+        ],
+        [
+            104
+        ],
+        [
+            52
+        ],
+        [
+            60
+        ],
+        [
+            73
+        ],
+        [
+            6
+        ],
+        [
+            58
+        ],
+        [
+            77
+        ],
+        [
+            102
+        ],
+        [
+            129
+        ],
+        [
+            75
+        ],
+        [
+            12
+        ],
+        [
+            12
+        ],
+        [
+            12
+        ],
+        [
+            83
+        ],
+        [
+            114
+        ],
+        [
+            20
+        ],
+        [
+            107
+        ],
+        [
+            107
+        ],
+        [
+            76
+        ],
+        [
+            32
+        ],
+        [
+            96
+        ],
+        [
+            67
+        ],
+        [
+            35
+        ],
+        [
+            128
+        ],
+        [
+            36
+        ],
+        [
+            1
+        ],
+        [
+            1
+        ],
+        [
+            1
+        ],
+        [
+            33
+        ],
+        [
+            69
+        ],
+        [
+            63
+        ],
+        [
+            97
+        ],
+        [
+            50
+        ],
+        [
+            39
+        ],
+        [
+            15
+        ],
+        [
+            56
+        ],
+        [
+            13
+        ],
+        [
+            90
+        ],
+        [
+            0
+        ],
+        [
+            23
+        ],
+        [
+            118
+        ],
+        [
+            94
+        ],
+        [
+            100
+        ],
+        [
+            100
+        ],
+        [
+            100
+        ],
+        [
+            3
+        ],
+        [
+            120
+        ],
+        [
+            120
+        ],
+        [
+            120
+        ],
+        [
+            110
+        ],
+        [
+            119
+        ],
+        [
+            47
+        ],
+        [
+            116
+        ],
+        [
+            2
+        ],
+        [
+            2
+        ],
+        [
+            2
+        ],
+        [
+            123
+        ],
+        [
+            113
+        ],
+        [
+            131
+        ],
+        [
+            34
+        ],
+        [
+            125
+        ],
+        [
+            30
+        ],
+        [
+            48
+        ],
+        [
+            74
+        ],
+        [
+            79
+        ],
+        [
+            28
+        ],
+        [
+            31
+        ],
+        [
+            68
+        ],
+        [
+            53
+        ],
+        [
+            127
+        ],
+        [
+            98
+        ],
+        [
+            81
+        ],
+        [
+            105
+        ],
+        [
+            101
+        ],
+        [
+            26
+        ],
+        [
+            115
+        ],
+        [
+            8
+        ]
+    ]
+}

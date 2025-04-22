@@ -1,0 +1,760 @@
+{
+    "character_type_list": [
+        "chef",
+        "astronaut",
+        "boy",
+        "man",
+        "cat",
+        "dog",
+        "boy",
+        "woman",
+        "cat",
+        "chef",
+        "pirate",
+        "man",
+        "cat",
+        "dog",
+        "pirate",
+        "Wizard"
+    ],
+    "character_short_prompts_list": [
+        "jolly plump chef with white hat and stained apron.",
+        "futuristic astronaut with a visor up.",
+        "mischievous boy with slingshot",
+        "a distinguished man with a monocle.",
+        "siamese cat lounging on a book",
+        "golden dog with frisbee",
+        "young boy with glasses",
+        "elegant woman in red evening gown.",
+        "white cat with blue collar",
+        "portly chef with white hat",
+        "bearded pirate with a wooden leg",
+        "a dapper man with a beard and pocket watch.",
+        "aristocratic white cat with monocle and bow tie.",
+        "golden dog in a red superhero cape",
+        "a pirate captain with an eye patch and a hook.",
+        "Ancient wizard with wand."
+    ],
+    "character_prompts_list": [
+        "A jolly, plump chef with a towering white hat and a stained apron, brandishing a wooden spoon and a hearty laugh.",
+        "A futuristic astronaut in a sleek white suit with blue lights, visor up, revealing a face filled with wonder.",
+        "A youthful, freckled boy with unruly copper hair, a look of mischief in his deep green eyes.",
+        "A distinguished man with a neatly trimmed silver beard, monocle perched on his right eye, dressed in a tailored three-piece velvet suit.",
+        "An elegant, sleek Siamese cat, with piercing blue eyes.",
+        "A loyal golden dog, tongue lolling happily.",
+        "A young boy with messy, jet-black hair, wide, curious eyes, sporting oversized glasses and a superhero t-shirt.",
+        "A tall, graceful woman with silver-streaked ebony hair, wearing a sleek, red evening gown and a mysterious smile.",
+        "An elegant, long-haired white cat with piercing emerald eyes, wearing a tiny, sparkling blue collar.",
+        "A cheerful, portly chef with a towering white hat, flour-dusted apron.",
+        "A fierce, bearded pirate sporting a colorful bandana, a wooden leg, and an ornate cutlass hanging from his belt.",
+        "A dapper man in his 30s, with a neat beard, sharp eyes, wearing a tailored suit and a pocket watch.",
+        "An aristocratic, fluffy white cat with piercing blue eyes, wearing a tiny, sophisticated monocle and a royal blue bow tie.",
+        "A loyal, large golden dog with a shiny, golden coat, wearing a red superhero cape.",
+        "A rugged pirate captain with a tricorner hat, an eye patch, and a hook for a hand.",
+        "An ancient wizard with flowing robes, a long beard, and a pointed hat, casting a spell with a gnarled wand."
+    ],
+    "scene_prompts_list": [
+        [
+            "A young boy with glasses and a bearded pirate with a wooden leg are examining a treasure map together under the flickering light of a lantern on a sandy beach at sunset."
+        ],
+        [
+            "A young boy with glasses reads a book beside a dapper man with a beard and pocket watch, sitting on an old-fashioned train bench."
+        ],
+        [
+            "A Siamese cat lounges on an open book in a cozy library, while an elegant woman in a red evening gown reads beside it, her finger gently tracing the lines of text."
+        ],
+        [
+            "A futuristic astronaut with their visor up stands beside an elegant woman in a red evening gown, both gazing at a distant Earth from a sleek, transparent space observatory."
+        ],
+        [
+            "A jolly plump chef and a bearded pirate with a wooden leg sharing a hearty meal on the deck of a ship."
+        ],
+        [
+            "A golden dog holding a frisbee in its mouth stands next to a bearded pirate with a wooden leg, on a sandy beach under a clear blue sky."
+        ],
+        [
+            "A white cat with a blue collar sits beside a pirate captain with an eye patch and a hook, both gazing out at a calm sea from the wooden deck of a ship."
+        ],
+        [
+            "An aristocratic white cat with a monocle and bow tie converses with an ancient wizard holding a wand in a grand, candle-lit library filled with ancient tomes."
+        ],
+        [
+            "A futuristic astronaut with their visor up is reading a book beside a Siamese cat lounging comfortably on top of another closed book in a cozy, dimly lit room."
+        ],
+        [
+            "A Siamese cat lounges atop an open book in a cozy library nook, while a golden dog wearing a red superhero cape stands heroically beside it, both bathed in the warm glow of a nearby reading lamp."
+        ],
+        [
+            "A distinguished man with a monocle sits in a vintage armchair, reading a book, while a white cat with a blue collar peacefully naps on his lap in a cozy, book-lined study."
+        ],
+        [
+            "A mischievous boy with a slingshot winks, poised to flick, while an aristocratic white cat with a monocle and bow tie sits unamused, tail flicking."
+        ],
+        [
+            "A futuristic astronaut with their visor up is playing fetch on a space station with a golden dog leaping for a frisbee."
+        ],
+        [
+            "A distinguished man and an aristocratic white cat, both wearing monocles and bow ties, sit at an elegant tea table, engaging in a refined conversation over a cup of tea."
+        ],
+        [
+            "A golden dog joyfully catching a frisbee mid-air, while a young boy with glasses watches with a wide smile, standing in a sunlit park."
+        ],
+        [
+            "A distinguished man with a monocle reads a large, ancient book beside a young boy with glasses, who is intently sketching in a notepad, both seated on a vintage leather sofa in a grand, book-lined study."
+        ],
+        [
+            "An elegant woman in a flowing red evening gown stands beside a golden dog wearing a matching red superhero cape; both gaze into the distance with a heroic stance."
+        ],
+        [
+            "A portly chef wearing a white hat and a pirate captain with an eye patch and a hook stand side by side, sharing a map of a treasure island laid out on a rustic wooden table."
+        ],
+        [
+            "A distinguished man with a monocle throws a frisbee, which a golden dog joyfully catches in a sunlit park."
+        ],
+        [
+            "A golden dog joyfully catches a frisbee mid-air in a sunny park, while an aristocratic white cat wearing a monocle and bow tie observes sternly from a nearby bench."
+        ],
+        [
+            "A white cat with a blue collar sits atop a weathered treasure chest, beside a bearded pirate with a wooden leg on a sandy beach."
+        ],
+        [
+            "A jolly plump chef in a white hat and stained apron laughs as he throws a frisbee, which a golden dog excitedly catches in a sunny park."
+        ],
+        [
+            "A futuristic astronaut with their visor up teaches a young boy with glasses about the stars, both pointing towards the sky on a clear night, surrounded by a field of glowing, bioluminescent flowers."
+        ],
+        [
+            "A mischievous boy with a slingshot hides behind a tree, aiming at a portly chef who is unaware, focused on tasting a soup from a large pot, wearing a white chef's hat in a sunny outdoor market setting."
+        ],
+        [
+            "An elegant woman in a red evening gown stands beside an aristocratic white cat wearing a monocle and bow tie, both posing in a luxurious Victorian parlor."
+        ],
+        [
+            "A jolly plump chef with a stained apron stands beside a dapper man with a beard, who is checking his pocket watch, in a bustling vintage kitchen."
+        ],
+        [
+            "A young boy with glasses sits under a tree, reading a book, with a white cat wearing a blue collar sleeping peacefully beside him on a soft green grass."
+        ],
+        [
+            "A Siamese cat lounges atop an open book in a cozy room, while nearby, a golden retriever dog joyfully holds a frisbee in its mouth, both bathed in warm sunlight filtering through a nearby window."
+        ],
+        [
+            "A young boy with glasses eagerly watches a portly chef with a white hat decorate a towering chocolate cake in a brightly lit, cozy kitchen."
+        ],
+        [
+            "A dapper man with a beard and pocket watch converses animatedly with an ancient wizard holding a wand, in a dimly lit, book-lined study filled with magical artifacts and glowing potions."
+        ],
+        [
+            "An aristocratic white cat with a monocle and bow tie stands beside a pirate captain with an eye patch and a hook on a wooden ship deck, both gazing out at the sunset over the ocean."
+        ],
+        [
+            "A young boy with glasses reads a comic book beside a golden dog wearing a red superhero cape, both sitting under a large oak tree in a sunny park."
+        ],
+        [
+            "A futuristic astronaut with their visor up stands beside a golden dog wearing a red superhero cape, both gazing towards a distant starry galaxy."
+        ],
+        [
+            "A futuristic astronaut with their visor up stands beside a pirate captain with an eye patch and a hook, both gazing at a starry sky."
+        ],
+        [
+            "A golden dog wearing a red superhero cape stands heroically beside a pirate captain with an eye patch and a hook, on a sandy beach with a treasure chest between them."
+        ],
+        [
+            "A white cat with a blue collar sits elegantly beside a dapper man with a beard, who is checking the time on his pocket watch in a quaint cobblestone alleyway."
+        ],
+        [
+            "An aristocratic white cat with a monocle and bow tie is seated elegantly on a plush red pillow. Beside it, a golden dog wearing a red superhero cape stands heroically on a wooden floor, both gazing toward a grand, sunlit window."
+        ],
+        [
+            "A young boy with glasses reads a large, ancient book, while an aristocratic white cat wearing a monocle and bow tie sits beside him, intently listening and occasionally nodding."
+        ],
+        [
+            "A distinguished man with a monocle and a pirate captain with an eye patch and a hook stand facing each other on a wooden ship deck, tension palpable in the salty sea air."
+        ],
+        [
+            "A white cat with a blue collar and a golden dog wearing a red superhero cape sit side by side on a grassy hill, overlooking a bustling cityscape as the sun sets behind them."
+        ],
+        [
+            "An elegant woman in a red evening gown converses with an ancient wizard holding a wand in a moonlit, mystical forest clearing."
+        ],
+        [
+            "A golden dog with a frisbee in its mouth bounds joyfully towards a dapper bearded man, who is glancing at his pocket watch in a sunlit park."
+        ],
+        [
+            "A Siamese cat lounges atop an ancient, dusty tome, while an old wizard with a long, flowing beard and a sparkling wand studies the cat intently in a dimly lit, book-filled study."
+        ],
+        [
+            "A bearded pirate with a wooden leg and a dapper man with a beard and pocket watch stand on a cobblestone street, exchanging a mysterious map under the glow of a flickering street lamp."
+        ],
+        [
+            "A Siamese cat reclines atop an open treasure map, while a bearded pirate with a wooden leg stands beside it, peering down at the map, a silver hook glinting in the sunlight."
+        ],
+        [
+            "A futuristic astronaut with their visor up converses with a distinguished man wearing a monocle, both standing against the backdrop of a starry space vista."
+        ],
+        [
+            "A Siamese cat lounges atop a pile of cookbooks, while a portly chef, wearing a white hat, laughs joyfully beside it, holding a wooden spoon."
+        ],
+        [
+            "A futuristic astronaut with a raised visor converses with a mischievous boy holding a slingshot, both standing on a lush green hill under a bright blue sky."
+        ],
+        [
+            "A mischievous boy with a slingshot teams up with a golden dog wearing a red superhero cape, both poised for action in a lush, sunlit meadow."
+        ],
+        [
+            "A Siamese cat lounges atop an open book next to a dapper bearded man in a suit, who is checking the time on his elegant pocket watch."
+        ],
+        [
+            "A portly chef in a white hat and a dapper man with a beard and pocket watch stand in a bustling vintage kitchen, discussing over an open cookbook."
+        ],
+        [
+            "A dapper man with a beard and pocket watch negotiates eagerly with a fierce pirate captain sporting an eyepatch and a hook on a foggy old dock."
+        ],
+        [
+            "A jolly plump chef and an aristocratic white cat with a monocle and bow tie are preparing a lavish meal together in a sunny, upscale kitchen."
+        ],
+        [
+            "A portly chef with a white hat and a bearded pirate with a wooden leg compete in a cooking contest on a ship's deck, surrounded by pots and pans, under a fluttering Jolly Roger flag."
+        ],
+        [
+            "A golden dog joyfully catches a frisbee in mid-air while a white cat with a blue collar watches intently from the side, both surrounded by a lush green park."
+        ],
+        [
+            "A portly chef in a white hat laughs joyously as he kneads dough, while a golden dog wearing a red superhero cape sits beside him, looking up with an eager expression."
+        ],
+        [
+            "A distinguished man with a monocle and a portly chef with a white hat are engaged in a lively discussion over a rustic wooden table filled with gourmet dishes in a cozy, warmly-lit kitchen."
+        ],
+        [
+            "A jolly plump chef with a white hat and a stained apron teaches a young boy with glasses how to knead dough in a sunny, flour-dusted kitchen."
+        ],
+        [
+            "A golden dog joyfully catches a frisbee on a grassy field, while an ancient wizard, clad in flowing robes and holding a wand, watches with a gentle smile under the shade of a large oak tree."
+        ],
+        [
+            "A futuristic astronaut with their visor up stands beside an ancient wizard holding a wand, both gazing at a hovering, glowing orb between them."
+        ],
+        [
+            "A distinguished man with a monocle and an elegant woman in a red evening gown stand poised in a grand, opulent ballroom, exchanging a mysterious glance."
+        ],
+        [
+            "A distinguished man with a monocle and an ancient wizard with a wand stand facing each other in a dimly lit, book-lined study, a magical glow emanating from the wizard's wand."
+        ],
+        [
+            "A dapper man with a beard and pocket watch converses with an aristocratic white cat wearing a monocle and bow tie in a luxurious Victorian drawing room."
+        ],
+        [
+            "A dapper man with a beard, wearing a suit and holding a pocket watch, stands beside a golden dog in a red superhero cape, both overlooking a bustling cityscape from a rooftop at sunset."
+        ],
+        [
+            "A distinguished man with a monocle sits in an elegant armchair, reading a book, while a siamese cat lounges on an open book on a nearby table, both bathed in the warm glow of a table lamp."
+        ],
+        [
+            "A portly chef wearing a white hat is sitting in a cozy kitchen, smiling as he gently feeds a white cat with a blue collar some gourmet cat food."
+        ],
+        [
+            "A mischievous boy with a slingshot is peeking from behind a tree at an ancient wizard holding a glowing wand in an enchanted forest clearing."
+        ],
+        [
+            "An elegant woman in a red evening gown stands beside a pirate captain with an eye patch and a hook, on the moonlit deck of an ancient galleon."
+        ],
+        [
+            "A jolly plump chef with a white hat and stained apron joyfully presents a steaming dish to a distinguished man with a monocle, who looks intrigued and delighted, seated at a lavish dining table."
+        ],
+        [
+            "A Siamese cat lies atop an open book on a wooden desk, beside a stern pirate captain with an eye patch and hook for a hand, poring over a faded treasure map."
+        ],
+        [
+            "A mischievous boy with a slingshot playfully aiming at a tree, while a white cat with a blue collar watches intently from a nearby fence, tail flicking in amusement."
+        ],
+        [
+            "A Siamese cat lounges atop an open book on a sunny windowsill, while a young boy with glasses sits beside it, trying to read the pages underneath the cat's relaxed form."
+        ],
+        [
+            "A mischievous boy with a slingshot peeks from behind a tree, aiming at an unaware, elegant woman in a red evening gown strolling gracefully through a sunlit park."
+        ],
+        [
+            "A pirate captain with an eye patch and a hook stands beside an ancient wizard with a wand, both overlooking a treasure map on a wooden table under the dim light of a lantern."
+        ],
+        [
+            "A young boy with glasses and an elegant woman in a red evening gown stand under a grand chandelier, exchanging smiles in a lavishly decorated ballroom."
+        ],
+        [
+            "In a mystical, moonlit kitchen, a portly chef in a white hat and an ancient wizard with a wand are conjuring a magical feast, surrounded by floating, glowing ingredients."
+        ],
+        [
+            "A jolly plump chef with a white hat and stained apron laughs as he kneels to pet a golden dog wearing a red superhero cape in a sunny, bustling outdoor market."
+        ],
+        [
+            "A golden dog with a frisbee joyfully runs beside a pirate captain with an eye patch and a hook, who stands on a sandy beach, looking out at the sunset over the ocean."
+        ],
+        [
+            "A bearded pirate with a wooden leg shares a map with an aristocratic white cat wearing a monocle and bow tie, both aboard a wooden ship deck at sunset."
+        ],
+        [
+            "A bearded pirate with a wooden leg stands beside a golden dog wearing a red superhero cape on a sandy beach, both looking towards the distant horizon."
+        ],
+        [
+            "A young boy with glasses and a pirate captain with an eye patch and a hook stand on a wooden ship deck, pointing towards the horizon."
+        ],
+        [
+            "A mischievous boy with a slingshot teams up with a golden dog holding a frisbee in a sunny park, both poised for playful adventure amidst scattered autumn leaves."
+        ],
+        [
+            "A jolly plump chef wearing a stained apron stands beside a table where a siamese cat lounges on an open book, both in a sunny kitchen."
+        ],
+        [
+            "A jolly plump chef with a stained apron and a white hat shares a hearty laugh with a futuristic astronaut, visor up, in a bustling space-themed kitchen."
+        ],
+        [
+            "A mischievous boy with a slingshot teams up with a one-eyed pirate captain with a hook, plotting their next adventure on a treasure map."
+        ],
+        [
+            "An elegant woman in a flowing red evening gown and a dapper bearded man with a pocket watch stand under a Victorian streetlamp, their silhouettes casting long shadows on the cobblestone path."
+        ],
+        [
+            "A jolly plump chef in a white hat and stained apron laughs heartily as he serves an elegant woman in a red evening gown, who smiles appreciatively at a bustling, warmly lit restaurant."
+        ],
+        [
+            "A golden dog joyously leaps mid-air to catch a frisbee, while a portly chef in a white hat and apron laughs heartily in the background of a sunny park."
+        ],
+        [
+            "A futuristic astronaut with their visor up is playing chess with an aristocratic white cat wearing a monocle and bow tie, inside a spaceship overlooking a starry galaxy."
+        ],
+        [
+            "A golden dog wearing a red superhero cape stands heroically beside an ancient wizard who is holding a wand, both atop a misty, moonlit hill."
+        ],
+        [
+            "A bearded pirate with a wooden leg and an ancient wizard with a wand stand on a rocky shore, discussing a tattered treasure map under the stormy sky."
+        ],
+        [
+            "A mischievous boy with a slingshot aiming at a distant target, beside a distinguished man with a monocle observing him intently, in a lush green park."
+        ],
+        [
+            "A futuristic astronaut with their visor up and a bearded pirate with a wooden leg stand on a rocky alien landscape, gazing at a distant, glowing nebula in the starry sky."
+        ],
+        [
+            "A futuristic astronaut with their visor up shares a steaming bowl of soup prepared by a portly chef wearing a white hat, both laughing together in a cozy, dimly lit kitchen with pots and pans hanging in the background."
+        ],
+        [
+            "A mischievous boy with a slingshot tucked in his back pocket winks, while a Siamese cat lounges atop an open book on a sunny windowsill."
+        ],
+        [
+            "An elegant woman in a red evening gown and a portly chef with a white hat share a toast in a dimly lit, luxurious kitchen, surrounded by culinary delights."
+        ],
+        [
+            "A golden dog joyfully catches a frisbee, while an elegant woman in a flowing red evening gown watches, clapping her hands in a sunlit park."
+        ],
+        [
+            "A mischievous boy with a slingshot hides behind a tree, aiming at a dapper man with a beard and pocket watch, who is checking the time, unaware of the boy's antics."
+        ],
+        [
+            "A jolly plump chef with a stained apron stands beside a mischievous boy with a slingshot, both laughing in a sunny, rustic kitchen."
+        ],
+        [
+            "A white cat with a blue collar sits attentively beside an ancient wizard, who is holding a wand and casting a spell in a mystical, moonlit forest clearing."
+        ]
+    ],
+    "scene_character_list": [
+        [
+            6,
+            10
+        ],
+        [
+            6,
+            11
+        ],
+        [
+            4,
+            7
+        ],
+        [
+            1,
+            7
+        ],
+        [
+            0,
+            10
+        ],
+        [
+            5,
+            10
+        ],
+        [
+            8,
+            14
+        ],
+        [
+            12,
+            15
+        ],
+        [
+            1,
+            4
+        ],
+        [
+            4,
+            13
+        ],
+        [
+            3,
+            8
+        ],
+        [
+            2,
+            12
+        ],
+        [
+            1,
+            5
+        ],
+        [
+            3,
+            12
+        ],
+        [
+            5,
+            6
+        ],
+        [
+            3,
+            6
+        ],
+        [
+            7,
+            13
+        ],
+        [
+            9,
+            14
+        ],
+        [
+            3,
+            5
+        ],
+        [
+            5,
+            12
+        ],
+        [
+            8,
+            10
+        ],
+        [
+            0,
+            5
+        ],
+        [
+            1,
+            6
+        ],
+        [
+            2,
+            9
+        ],
+        [
+            7,
+            12
+        ],
+        [
+            0,
+            11
+        ],
+        [
+            6,
+            8
+        ],
+        [
+            4,
+            5
+        ],
+        [
+            6,
+            9
+        ],
+        [
+            11,
+            15
+        ],
+        [
+            12,
+            14
+        ],
+        [
+            6,
+            13
+        ],
+        [
+            1,
+            13
+        ],
+        [
+            1,
+            14
+        ],
+        [
+            13,
+            14
+        ],
+        [
+            8,
+            11
+        ],
+        [
+            12,
+            13
+        ],
+        [
+            6,
+            12
+        ],
+        [
+            3,
+            14
+        ],
+        [
+            8,
+            13
+        ],
+        [
+            7,
+            15
+        ],
+        [
+            5,
+            11
+        ],
+        [
+            4,
+            15
+        ],
+        [
+            10,
+            11
+        ],
+        [
+            4,
+            10
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            4,
+            9
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            2,
+            13
+        ],
+        [
+            4,
+            11
+        ],
+        [
+            9,
+            11
+        ],
+        [
+            11,
+            14
+        ],
+        [
+            0,
+            12
+        ],
+        [
+            9,
+            10
+        ],
+        [
+            5,
+            8
+        ],
+        [
+            9,
+            13
+        ],
+        [
+            3,
+            9
+        ],
+        [
+            0,
+            6
+        ],
+        [
+            5,
+            15
+        ],
+        [
+            1,
+            15
+        ],
+        [
+            3,
+            7
+        ],
+        [
+            3,
+            15
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            13
+        ],
+        [
+            3,
+            4
+        ],
+        [
+            8,
+            9
+        ],
+        [
+            2,
+            15
+        ],
+        [
+            7,
+            14
+        ],
+        [
+            0,
+            3
+        ],
+        [
+            4,
+            14
+        ],
+        [
+            2,
+            8
+        ],
+        [
+            4,
+            6
+        ],
+        [
+            2,
+            7
+        ],
+        [
+            14,
+            15
+        ],
+        [
+            6,
+            7
+        ],
+        [
+            9,
+            15
+        ],
+        [
+            0,
+            13
+        ],
+        [
+            5,
+            14
+        ],
+        [
+            10,
+            12
+        ],
+        [
+            10,
+            13
+        ],
+        [
+            6,
+            14
+        ],
+        [
+            2,
+            5
+        ],
+        [
+            0,
+            4
+        ],
+        [
+            0,
+            1
+        ],
+        [
+            2,
+            14
+        ],
+        [
+            7,
+            11
+        ],
+        [
+            0,
+            7
+        ],
+        [
+            5,
+            9
+        ],
+        [
+            1,
+            12
+        ],
+        [
+            13,
+            15
+        ],
+        [
+            10,
+            15
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            1,
+            10
+        ],
+        [
+            1,
+            9
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            7,
+            9
+        ],
+        [
+            5,
+            7
+        ],
+        [
+            2,
+            11
+        ],
+        [
+            0,
+            2
+        ],
+        [
+            8,
+            15
+        ]
+    ]
+}
