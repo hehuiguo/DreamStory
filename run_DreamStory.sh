@@ -1,0 +1,2 @@
+python ./src/DreamStory/pipe/pipe_test.py test --prompts_path="./results/examples/example.json" --output_root="./results/example_DreamStory/" \
+            --sam_step 40 --is_spatial_self_attn False --is_isolate_sa False --attn_processor_name "DreamStoryAttnProcessor"

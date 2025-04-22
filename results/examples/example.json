@@ -1,0 +1,41 @@
+{
+    "test_case_name": "example",
+    "subjects": [
+        {
+            "subject_name": "boy",
+            "prompt": "A youthful, freckled boy with unruly copper hair, a look of mischief in his deep green eyes.",
+            "subject_detection_keywords": "boy",
+            "word_token_idx": {},
+            "subject_word": [
+                "boy"
+            ],
+            "ref_token_idx": []
+        },
+        {
+            "subject_name": "cat",
+            "prompt": "An aristocratic, fluffy white cat with piercing blue eyes, wearing a tiny, sophisticated monocle and a royal blue bow tie.",
+            "subject_detection_keywords": "cat",
+            "word_token_idx": {},
+            "subject_word": [
+                "cat"
+            ],
+            "ref_token_idx": []
+        }
+    ],
+    "scene": {
+        "prompt": "A mischievous boy with a slingshot winks, poised to flick, while an aristocratic white cat with a monocle and bow tie sits unamused, tail flicking.",
+        "word_token_idx": {},
+        "subject_word": [
+            [
+                "boy"
+            ],
+            [
+                "cat"
+            ]
+        ],
+        "ref_token_idx": [
+            [],
+            []
+        ]
+    }
+}
