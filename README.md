@@ -1,3 +1,8 @@
+# DreamStory Project
+
+This repository is the **official implementation** of [DreamStory](https://arxiv.org/abs/2407.12899) and [IR-Diffusion](https://arxiv.org/abs/2411.19261).  
+
+
 # Installation
 
 ### Create Conda Environment.
@@ -8,6 +13,8 @@
 - `pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 xformers --index-url https://download.pytorch.org/whl/cu121`
 
 ### Install DreamStory
+- `git clone https://github.com/hehuiguo/DreamStory`
+- `cd DreamStory`
 - `pip install -e .`
 
 ### Install GroundedSAM
@@ -22,10 +29,22 @@
 
 The generated image will be saved as ./results/example_debug/output_image_00.png.
 
-<!-- # Issues
+##  Citation
+🌟 Support Us! If you find this project useful, please consider giving it a ⭐ to help others discover it!
 
-### libGL.so.1
-- `apt install libgl1`
+📖 Cite Us! If this project contributes to your research, we would appreciate it if you could cite our paper:
+```bibtex
+@article{IR_Diffusion,
+  title={Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention},
+  author={He, Huiguo and Wang, Qiuyue and Zhou, Yuan and Cai, Yuxuan and Chao, Hongyang and Yin, Jian and Yang, Huan},
+  journal={arXiv preprint arXiv:2411.19261},
+  year={2024}
+}
 
-### libgthread-2.0.so.0
-- `apt install libglib2.0-0` -->
+@article{DreamStory,
+  title={Dreamstory: Open-domain story visualization by llm-guided multi-subject consistent diffusion},
+  author={He, Huiguo and Yang, Huan and Tuo, Zixi and Zhou, Yuan and Wang, Qiuyue and Zhang, Yuhang and Liu, Zeyu and Huang, Wenhao and Chao, Hongyang and Yin, Jian},
+  journal={arXiv preprint arXiv:2407.12899},
+  year={2024}
+}
+```
