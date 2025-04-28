@@ -1,0 +1,29 @@
+numpy>=1.24.1,<2.0.0
+scipy>=1.11.4
+transformers>=4.35.2
+diffusers>=0.30.0
+pytorch_lightning>=2.0.1
+tqdm>=4.64.1
+opencv-python>=4.8.1.78
+Fire>=0.5.0
+pandas>=2.1.3
+pytorch_fid>=0.3.0
+gradio>=4.0.0
+omegaconf>=2.3.0
+accelerate>=0.31.0
+SentencePiece>=0.2.0
+beautifulsoup4>=4.12.3
+
+# for hf download
+hf_xet
+
+# for data process
+python-docx
+fuzzywuzzy
+
+# for LLM
+openai
+anthropic
+
+# for metrics
+# dreamsim # dreamsim 0.1.3 requires peft==0.1.0. but diffusers 0.30.0 requires peft>=0.12.0
