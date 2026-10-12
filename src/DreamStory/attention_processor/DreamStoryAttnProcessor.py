@@ -594,7 +594,7 @@ class DreamStoryAttnProcessor(ConsiStoryAttnProcessor):
                     mutual_hidden_states_unconditional_target_list.append(mutual_hidden_states_unconditional_target_i)
                     mutual_hidden_states_conditional_target_list.append(mutual_hidden_states_conditional_target_i)
 
-                # 拼成mutual_hidden_states
+                # concatenate into mutual_hidden_states
                 mutual_hidden_states_unconditional_target = torch.cat(mutual_hidden_states_unconditional_target_list, dim=0)
                 mutual_hidden_states_conditional_target = torch.cat(mutual_hidden_states_conditional_target_list, dim=0)
                 mutual_hidden_states = torch.cat([mutual_hidden_states_unconditional_target, mutual_hidden_states_conditional_target], dim=0)
@@ -709,7 +709,7 @@ class DreamStoryAttnProcessor(ConsiStoryAttnProcessor):
 
         is_target_sam_mask = not (self.sam_mask is None or self.sam_mask["target_mask"] is None or len(self.sam_mask["target_mask"]) < self.subj_num)
 
-        # 收集attention (skip in reference pass for KV-Cache mode, as we only have source subjects)
+        # collect attention (skip in reference pass for KV-Cache mode, as we only have source subjects)
         if not (self.use_kv_cache and self._is_reference_pass):
             if is_cross_attention:
                 if attention_probs.shape[1] == self.aggregation_attn_size:

@@ -29,9 +29,9 @@ class DreamStoryScaledAttnProcessor(DreamStoryAttnProcessor):
         self.is_isolate_sa = is_isolate_sa
 
     '''
-    把reference的hidden_states，根据self_attns_mask和spatial_mask，resize到target image的大小。
-    它是将reference hidden_states的特征，resize后粘贴到target hidden_states上,。
-    这个新的hidden_states由mutual self attention计算
+    Resize the reference hidden_states to the subject size in the target image according to
+    self_attns_mask and spatial_mask, and paste them onto the target hidden_states.
+    The new hidden_states are then used by the mutual self attention.
     '''
     def rescale_hidden_states_sa(self, hidden_states, self_attns_mask_list, spatial_mask_list, inter_mode="nearest"):
         # hidden_states.shape: torch.Size([6, 3840, 640])
@@ -91,10 +91,10 @@ class DreamStoryScaledAttnProcessor(DreamStoryAttnProcessor):
         return hidden_states
 
     '''
-    把target的hidden_states，根据self_attns_mask和spatial_mask，resize到reference image的大小。
-    它是将target hidden_states的特征，resize后粘贴到reference hidden_states上,。
-    然后这个新的hidden_states经过正常的cross attention计算后，再把对应位置的特征resize回target image中角色的大小。
-    最后进行加权求和。
+    Resize the target hidden_states to the subject size in the reference image according to
+    self_attns_mask and spatial_mask, and paste them onto the reference hidden_states.
+    After the normal cross attention, the features are resized back to the subject size in the
+    target image, and finally blended by a weighted sum.
     '''
     def rescale_hidden_states_ca(self, hidden_states, self_attns_mask_list, spatial_mask_list, inter_mode="nearest"):
         # hidden_states.shape: torch.Size([6, 3840, 640])
@@ -653,7 +653,7 @@ class DreamStoryScaledAttnProcessor(DreamStoryAttnProcessor):
                 query_unconditional_list = query_unconditional.chunk(self.subj_num+1, dim=0)
                 query_conditional_list = query_conditional.chunk(self.subj_num+1, dim=0)
 
-                # mask attention的方式
+                # mask attention
                 key_unconditional, key_conditional = key.chunk(2, dim=0)
                 key_unconditional_list = key_unconditional.chunk(self.subj_num+1, dim=0)
                 key_conditional_list = key_conditional.chunk(self.subj_num+1, dim=0)
@@ -863,8 +863,8 @@ class DreamStoryScaledAttnProcessor(DreamStoryAttnProcessor):
     def mask_attention_fg(self, query, key, value, 
                     attn, self_attns_mask, spatial_mask=None, attention_mask=None):
         """
-        这里实现cross attention的foreground mask attention。其中query是target image的query, key和value是source image的。
-        目的是让target image的query只关注source image的text。
+        Foreground mask attention for cross attention: query comes from the target image, key and value
+        from the source image, so that the target image queries only attend to the text of the source image.
         """
         dtype = query.dtype
         if attn.upcast_attention:
@@ -911,7 +911,8 @@ class DreamStoryScaledAttnProcessor(DreamStoryAttnProcessor):
     def mask_attention_multi_subj(self, query, key, value, 
                     attn, self_attns_mask, spatial_mask=None, attention_mask=None):
         """
-        这里实现mask attention。其中query是target image的query, key和value是source image与target image拼接起来的。
+        Mask attention: query comes from the target image, key and value are the concatenation of the
+        source images and the target image.
         """
         dtype = query.dtype
         if attn.upcast_attention:
