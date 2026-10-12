@@ -217,7 +217,7 @@ def get_key_from_prompts(text, phrase, count=0):
                 best_sim = cur_sim
                 best_i = name
             elif cur_sim == best_sim:# Returns the shorter one
-                if len(name) < best_i:
+                if best_i != -1 and len(name) < len(best_i):
                     best_i = name
         if best_i != -1:
             return best_i
@@ -402,7 +402,7 @@ def generate_sam_mask(image, text_prompt,
                 phrase = phrases[i]
                 if phrase is None or len(phrase) < 1:
                     continue
-                # 如果和best_bbox中的重叠，则继续
+                # skip the boxes that overlap with the ones already in best_bbox
                 area_size_i = (boxes_xyxy[i][2] - boxes_xyxy[i][0]) * (boxes_xyxy[i][3] - boxes_xyxy[i][1])
                 is_in_best_bbox = False
                 for _, (logit, box) in best_bbox.items():
