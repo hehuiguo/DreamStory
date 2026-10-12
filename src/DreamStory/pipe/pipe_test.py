@@ -51,7 +51,7 @@ def test(prompts_path="./results/examples/example_dog_boy.json",
     test_dict = read_test_prompts(prompts_path, pipe)
 
     os.makedirs(output_root, exist_ok=True)
-    output_image_path = os.path.join(output_root, "output_image.png")
+    output_image_path = os.path.join(output_root, "output_image_00.png")
     if os.path.exists(output_image_path) and not is_overwrite:
         return
 
@@ -127,7 +127,7 @@ def test(prompts_path="./results/examples/example_dog_boy.json",
                                         groundingdino_model=groundingdino_model, sam_predictor=sam_predictor)
         mask = mask_dict[detect_prompt[:-1]] # discard '.' in the end
         sam_mask["source_mask"].append(mask[0,:,:,:]) # mask.shape: [N, 1, H, W]
-        scene_detect_prompt += detect_prompt if len(scene_detect_prompt) == 0 else f" {detect_prompt}" # 拼接所有的detect_prompt, 用于检测场景
+        scene_detect_prompt += detect_prompt if len(scene_detect_prompt) == 0 else f" {detect_prompt}" # all subjects' detect prompts, used to detect them in the scene
 
         # save sam mask
         original_image_path = os.path.join(output_root, f"original_generated_image_{i:02d}.png")
@@ -276,6 +276,27 @@ def test(prompts_path="./results/examples/example_dog_boy.json",
             mask_dict = attn_processor.mask_dict
             assert len(mask_dict) > 0, "mask_dict should not be empty."
             attn_processor.reset_mask_dict()
+
+# Run all cases of a DS-500 subset (prepared by data.py prepare_data), loading the models only once.
+# Finished cases are skipped by test(), so an interrupted run can simply be relaunched.
+def test_benchmark(case_root="./results/DS-500/data/2-subj/", output_root="./results/DS-500/IR-Diffusion/2-subj/",
+                   model="playgroundai/playground-v2.5-1024px-aesthetic", seed=666, device="cuda:0",
+                   use_kv_cache=False, sam_name="sam", **kwargs):
+    pipe = get_model(model, device, use_kv_cache=use_kv_cache)
+    groundingdino_model, sam_predictor = load_model(sam_name=sam_name, device=device)
+
+    cases = sorted(d for d in os.listdir(case_root) if os.path.isdir(os.path.join(case_root, d, "final_meta")))
+    assert len(cases) > 0, f"no cases under {case_root}"
+    for case_idx, case in enumerate(cases):
+        print(f"case {case_idx+1}/{len(cases)}: {case}", flush=True)
+        try:
+            test(prompts_path=os.path.join(case_root, case, "final_meta", f"{case}.json"),
+                 model=pipe, groundingdino_model=groundingdino_model, sam_predictor=sam_predictor, sam_name=sam_name,
+                 output_root=os.path.join(output_root, case), seed=seed, device=device,
+                 use_kv_cache=use_kv_cache, **kwargs)
+        except Exception: # keep running the rest, failed cases are retried on the next launch
+            traceback.print_exc()
+            torch.cuda.empty_cache()
 
 if __name__ == "__main__": # test the pipeline
     fire.Fire()

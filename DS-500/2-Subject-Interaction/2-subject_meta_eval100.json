@@ -1,0 +1,859 @@
+{
+    "character_type_list": [
+        "chef",
+        "astronaut",
+        "boy",
+        "man",
+        "cat",
+        "dog",
+        "boy",
+        "woman",
+        "cat",
+        "chef",
+        "pirate",
+        "man",
+        "cat",
+        "dog",
+        "pirate",
+        "Wizard",
+        "hamster",
+        "sparrow",
+        "turtle",
+        "frog",
+        "fox cub",
+        "rubber duck",
+        "paper bird",
+        "alarm clock",
+        "kite",
+        "chess knight",
+        "teapot",
+        "corgi puppy",
+        "duckling",
+        "miniature astronaut",
+        "toy submarine",
+        "robotic beetle",
+        "sailor",
+        "gardener",
+        "baker",
+        "photographer",
+        "young knight",
+        "raccoon",
+        "penguin",
+        "parrot",
+        "hedgehog",
+        "girl",
+        "rabbit",
+        "pony",
+        "book",
+        "camera",
+        "basket",
+        "bicycle",
+        "teddy bear"
+    ],
+    "character_short_prompts_list": [
+        "jolly plump chef with white hat and stained apron.",
+        "futuristic astronaut with a visor up.",
+        "mischievous boy with slingshot",
+        "a distinguished man with a monocle.",
+        "siamese cat lounging on a book",
+        "golden dog with frisbee",
+        "young boy with glasses",
+        "elegant woman in red evening gown.",
+        "white cat with blue collar",
+        "portly chef with white hat",
+        "bearded pirate with a wooden leg",
+        "a dapper man with a beard and pocket watch.",
+        "aristocratic white cat with monocle and bow tie.",
+        "golden dog in a red superhero cape",
+        "a pirate captain with an eye patch and a hook.",
+        "Ancient wizard with wand.",
+        "tiny golden hamster with puffed cheeks",
+        "small brown sparrow with a striped wing",
+        "palm-sized green turtle with a patterned shell",
+        "little emerald tree frog with orange toes",
+        "small red fox cub with white-tipped paws",
+        "small yellow rubber duck with an orange beak",
+        "folded blue paper bird with crisp wings",
+        "palm-sized brass alarm clock with twin bells",
+        "little diamond kite made of orange paper",
+        "carved wooden chess knight with a dark mane",
+        "round turquoise teapot with a curved spout",
+        "small corgi puppy with a blue bandana",
+        "tiny yellow duckling with damp feathers",
+        "tiny astronaut figurine with a gold visor",
+        "small yellow toy submarine with round windows",
+        "tiny copper robotic beetle with six legs",
+        "young sailor in a navy pea coat",
+        "retired gardener in green overalls",
+        "young baker with a flour-dusted blue apron",
+        "travel photographer with a canvas camera bag",
+        "young knight in modest silver armor",
+        "small raccoon with a striped tail",
+        "short emperor penguin with a red scarf",
+        "green parrot with a yellow cheek patch",
+        "round hedgehog with a knitted blue cap",
+        "girl in a yellow raincoat",
+        "white rabbit with gray ears",
+        "small brown pony with a cream mane",
+        "large blue hardcover book",
+        "black vintage camera with a leather strap",
+        "woven basket with a wide handle",
+        "blue bicycle with a front basket",
+        "small brown teddy bear with a red scarf"
+    ],
+    "character_prompts_list": [
+        "A jolly, plump chef with a towering white hat and a stained apron, brandishing a wooden spoon and a hearty laugh.",
+        "A futuristic astronaut in a sleek white suit with blue lights, visor up, revealing a face filled with wonder.",
+        "A youthful, freckled boy with unruly copper hair, a look of mischief in his deep green eyes.",
+        "A distinguished man with a neatly trimmed silver beard, monocle perched on his right eye, dressed in a tailored three-piece velvet suit.",
+        "An elegant, sleek Siamese cat, with piercing blue eyes.",
+        "A loyal golden dog, tongue lolling happily.",
+        "A young boy with messy, jet-black hair, wide, curious eyes, sporting oversized glasses and a superhero t-shirt.",
+        "A tall, graceful woman with silver-streaked ebony hair, wearing a sleek, red evening gown and a mysterious smile.",
+        "An elegant, long-haired white cat with piercing emerald eyes, wearing a tiny, sparkling blue collar.",
+        "A cheerful, portly chef with a towering white hat, flour-dusted apron.",
+        "A fierce, bearded pirate sporting a colorful bandana, a wooden leg, and an ornate cutlass hanging from his belt.",
+        "A dapper man in his 30s, with a neat beard, sharp eyes, wearing a tailored suit and a pocket watch.",
+        "An aristocratic, fluffy white cat with piercing blue eyes, wearing a tiny, sophisticated monocle and a royal blue bow tie.",
+        "A loyal, large golden dog with a shiny, golden coat, wearing a red superhero cape.",
+        "A rugged pirate captain with a tricorner hat, an eye patch, and a hook for a hand.",
+        "An ancient wizard with flowing robes, a long beard, and a pointed hat, casting a spell with a gnarled wand.",
+        "A tiny golden hamster with puffed cheeks, clutching a sunflower seed.",
+        "A small brown sparrow with a striped wing and bright black eyes.",
+        "A palm-sized green turtle with a patterned shell and curious eyes.",
+        "A little emerald tree frog with orange toes, perched alertly.",
+        "A small red fox cub with white-tipped paws and oversized ears.",
+        "A small yellow rubber duck with an orange beak and a cheerful expression.",
+        "A folded blue paper bird with crisp wings and a delicate beak.",
+        "A palm-sized brass alarm clock with twin bells and a cream dial.",
+        "A little diamond kite made of orange paper with a short ribbon tail.",
+        "A carved wooden chess knight with a dark mane and a polished base.",
+        "A round turquoise teapot with a curved spout and a lid topped by a bead.",
+        "A small corgi puppy with a blue bandana and upright ears.",
+        "A tiny yellow duckling with damp feathers and orange feet.",
+        "A tiny astronaut figurine in a white suit with a reflective gold visor.",
+        "A small yellow toy submarine with round windows and a periscope.",
+        "A tiny copper robotic beetle with six articulated legs and glowing eyes.",
+        "A young sailor in a navy pea coat, striped shirt, and white cap.",
+        "A retired gardener in green overalls, carrying a small trowel.",
+        "A young baker with a flour-dusted blue apron and a tray of rolls.",
+        "A travel photographer with a canvas camera bag and a compact camera.",
+        "A young knight in modest silver armor with a blue sash and a wooden shield.",
+        "A small raccoon with a striped tail and nimble paws.",
+        "A short emperor penguin with a red scarf and glossy black feathers.",
+        "A green parrot with a yellow cheek patch and a curved beak.",
+        "A round hedgehog with a knitted blue cap and tiny paws.",
+        "A young girl with braided hair, a yellow raincoat, and red boots.",
+        "A white rabbit with soft gray ears and bright eyes.",
+        "A small brown pony with a cream mane and a gentle expression.",
+        "A large blue hardcover book with a gold design on its cover.",
+        "A black vintage camera with a silver lens and a leather strap.",
+        "A woven basket with a wide handle and a red cloth lining.",
+        "A blue bicycle with a front basket, silver bell, and black tires.",
+        "A small brown teddy bear with a red scarf and stitched black eyes."
+    ],
+    "scene_prompts_list": [
+        [
+            "A chef gives a girl a side hug in a quiet library."
+        ],
+        [
+            "A man leans against a young knight in a museum gallery."
+        ],
+        [
+            "A woman wraps an arm around a baker's shoulders on a seaside path."
+        ],
+        [
+            "An astronaut and a woman dance close together in a village square."
+        ],
+        [
+            "A pirate leans on a girl's shoulder near a city fountain."
+        ],
+        [
+            "An astronaut and a photographer huddle together in a museum gallery."
+        ],
+        [
+            "A woman shakes hands with a young knight in a quiet library."
+        ],
+        [
+            "A sailor leans on a girl's shoulder in a bakery."
+        ],
+        [
+            "A man leans on a sailor's shoulder at a harbor market."
+        ],
+        [
+            "A man leans against a pirate at a festival booth."
+        ],
+        [
+            "A man and a girl dance close together at a farm gate."
+        ],
+        [
+            "A boy and a chef huddle together under a striped awning."
+        ],
+        [
+            "A wizard and a girl dance close together in a sunlit kitchen."
+        ],
+        [
+            "A baker shakes hands with a girl in a snowy courtyard."
+        ],
+        [
+            "A gardener sits with a dog in their lap inside a greenhouse."
+        ],
+        [
+            "A wizard stands with a raccoon pressed to their side in a museum gallery."
+        ],
+        [
+            "In a close waist-up view, a girl cups a rabbit in both hands in a bakery."
+        ],
+        [
+            "A sailor leans against a pony at a harbor market."
+        ],
+        [
+            "In a close waist-up view, a baker cradles a turtle in folded arms beneath a station clock."
+        ],
+        [
+            "A sailor hugs a dog against their chest in an art studio."
+        ],
+        [
+            "A chef sits with a dog in their lap beside a forest stream."
+        ],
+        [
+            "In a close waist-up view, a wizard cups a hamster in both hands in a sunlit kitchen."
+        ],
+        [
+            "A woman sits with a cat in their lap inside a greenhouse."
+        ],
+        [
+            "A woman brushes a pony in a museum gallery."
+        ],
+        [
+            "A chef kneels and wraps an arm around a dog in a snowy courtyard."
+        ],
+        [
+            "A woman hugs a penguin against their chest in a sunlit kitchen."
+        ],
+        [
+            "In a close portrait, an astronaut raises a hedgehog close to their face in a museum gallery."
+        ],
+        [
+            "In a close waist-up view, a woman cups a hedgehog in both hands in a village square."
+        ],
+        [
+            "In a tight two-shot, a pirate kneels and wraps an arm around a corgi puppy beneath a station clock."
+        ],
+        [
+            "A wizard stands with a dog pressed to their side at a festival booth."
+        ],
+        [
+            "In a tight two-shot, a man sits with a fox cub in their lap by a campsite."
+        ],
+        [
+            "In a close portrait, a chef raises a turtle close to their face at a farm gate."
+        ],
+        [
+            "A chef kneels and wraps an arm around a cat beneath a station clock."
+        ],
+        [
+            "A chef stands with a penguin pressed to their side in a quiet library."
+        ],
+        [
+            "A man kneels and wraps an arm around a cat under a striped awning."
+        ],
+        [
+            "In a tight two-shot, a gardener stands with a corgi puppy pressed to their side at a festival booth."
+        ],
+        [
+            "In a close portrait, a gardener raises a frog close to their face in a museum gallery."
+        ],
+        [
+            "In a close waist-up view, an astronaut cups a turtle in both hands in an art studio."
+        ],
+        [
+            "A wizard sits with a cat in their lap beside a forest stream."
+        ],
+        [
+            "A girl hugs a pony's neck in a sunlit kitchen."
+        ],
+        [
+            "An astronaut sits with a cat in their lap inside a greenhouse."
+        ],
+        [
+            "A chef kneels and wraps an arm around a cat on a train platform."
+        ],
+        [
+            "A man stands with a raccoon pressed to their side in a museum gallery."
+        ],
+        [
+            "In a close waist-up view, a gardener cups a sparrow gently at a farm gate."
+        ],
+        [
+            "An astronaut sits with a cat in their lap at a harbor market."
+        ],
+        [
+            "In a close waist-up view, an astronaut cups a duckling in both hands in a sunlit kitchen."
+        ],
+        [
+            "In a close waist-up view, a pirate cups a sparrow gently in a museum gallery."
+        ],
+        [
+            "A sailor hugs a cat against their chest beside a forest stream."
+        ],
+        [
+            "A photographer kneels and wraps an arm around a raccoon in a snowy courtyard."
+        ],
+        [
+            "In a close waist-up view, a man holds a sparrow beneath a station clock."
+        ],
+        [
+            "In a close portrait, a chef carries a sparrow on their shoulder in an art studio."
+        ],
+        [
+            "In a close waist-up view, a baker holds a parrot against their chest beside a forest stream."
+        ],
+        [
+            "In a close waist-up view, a sailor cups a sparrow gently at a festival booth."
+        ],
+        [
+            "A pirate leans against a pony inside a greenhouse."
+        ],
+        [
+            "A gardener kneels and wraps an arm around a raccoon on a train platform."
+        ],
+        [
+            "A pirate stands with a cat pressed to their side in a museum gallery."
+        ],
+        [
+            "In a close portrait, a man raises a rabbit close to their face in a quiet library."
+        ],
+        [
+            "A wizard stands with a penguin pressed to their side at a festival booth."
+        ],
+        [
+            "A man leans against a pony in a snowy courtyard."
+        ],
+        [
+            "An astronaut kneels and wraps an arm around a raccoon beneath a station clock."
+        ],
+        [
+            "In a close waist-up view, a woman cups a frog in both hands in an art studio."
+        ],
+        [
+            "In a close portrait, an astronaut carries a sparrow on their shoulder in a sunlit kitchen."
+        ],
+        [
+            "In a close waist-up view, a man holds a hedgehog against their chest inside a greenhouse."
+        ],
+        [
+            "In a tight two-shot, a young knight sits with a corgi puppy in their lap by a campsite."
+        ],
+        [
+            "A boy sits with a dog in their lap beside a forest stream."
+        ],
+        [
+            "In a close portrait, a young knight carries a sparrow on their shoulder in a sunlit kitchen."
+        ],
+        [
+            "A baker stands with a cat pressed to their side in a museum gallery."
+        ],
+        [
+            "A photographer sits with a cat in their lap by a campsite."
+        ],
+        [
+            "In a close portrait, a boy raises a hamster close to their face at a farm gate."
+        ],
+        [
+            "A boy kneels and wraps an arm around a penguin beneath a station clock."
+        ],
+        [
+            "A baker brushes a pony in a quiet library."
+        ],
+        [
+            "In a close portrait, an astronaut carries a parrot on their shoulder in an art studio."
+        ],
+        [
+            "In a close portrait, a girl raises a turtle close to their face at a festival booth."
+        ],
+        [
+            "In a close portrait, a girl carries a sparrow on their shoulder in a sunlit kitchen."
+        ],
+        [
+            "A boy kneels and wraps an arm around a cat beneath a station clock."
+        ],
+        [
+            "In a tight two-shot, a young knight sits with a fox cub in their lap inside a greenhouse."
+        ],
+        [
+            "An astronaut stands with a cat pressed to their side in a museum gallery."
+        ],
+        [
+            "In a tight two-shot, an astronaut stands with a fox cub pressed to their side at a farm gate."
+        ],
+        [
+            "In a close waist-up view, a sailor holds an alarm clock against their chest beneath a station clock."
+        ],
+        [
+            "In a close waist-up view, a chef cups a robotic beetle in both hands in a bakery."
+        ],
+        [
+            "In a close waist-up view, a gardener squeezes a rubber duck between both palms in a village square."
+        ],
+        [
+            "A gardener sits astride a bicycle in a village square."
+        ],
+        [
+            "A gardener holds a kite against their chest in a bakery."
+        ],
+        [
+            "A pirate holds a basket against their hip under a garden pergola."
+        ],
+        [
+            "In a close waist-up view, a gardener holds an alarm clock against their chest beneath a station clock."
+        ],
+        [
+            "In a close waist-up view, a boy holds a paper bird between their palms in a bakery."
+        ],
+        [
+            "A baker cradles a teapot against their chest in a bakery."
+        ],
+        [
+            "A woman holds a book open against their chest beneath a station clock."
+        ],
+        [
+            "In a close waist-up view, a young knight cups a chess knight in both hands inside a greenhouse."
+        ],
+        [
+            "In a close waist-up view, a chef holds a paper bird between their palms under a garden pergola."
+        ],
+        [
+            "In a close waist-up view, a pirate holds a paper bird between their palms in a quiet library."
+        ],
+        [
+            "In a close waist-up view, a young knight holds a paper bird between their palms on a train platform."
+        ],
+        [
+            "In a close waist-up view, a boy cups a robotic beetle in both hands at a festival booth."
+        ],
+        [
+            "A boy holds a basket against their hip at a festival booth."
+        ],
+        [
+            "A young knight raises a camera to one eye at a farm gate."
+        ],
+        [
+            "A wizard holds a kite against their chest in a rooftop garden."
+        ],
+        [
+            "In a close waist-up view, a woman hugs a teddy bear tightly in a rooftop garden."
+        ],
+        [
+            "In a close waist-up view, a wizard holds an astronaut figurine in both hands beneath a station clock."
+        ],
+        [
+            "In a close waist-up view, a boy cradles a toy submarine against their torso in a village square."
+        ],
+        [
+            "A sailor holds a basket against their hip on a train platform."
+        ]
+    ],
+    "scene_character_list": [
+        [
+            9,
+            41
+        ],
+        [
+            11,
+            36
+        ],
+        [
+            7,
+            34
+        ],
+        [
+            1,
+            7
+        ],
+        [
+            10,
+            41
+        ],
+        [
+            1,
+            35
+        ],
+        [
+            7,
+            36
+        ],
+        [
+            32,
+            41
+        ],
+        [
+            11,
+            32
+        ],
+        [
+            3,
+            14
+        ],
+        [
+            11,
+            41
+        ],
+        [
+            6,
+            9
+        ],
+        [
+            15,
+            41
+        ],
+        [
+            34,
+            41
+        ],
+        [
+            33,
+            13
+        ],
+        [
+            15,
+            37
+        ],
+        [
+            41,
+            42
+        ],
+        [
+            32,
+            43
+        ],
+        [
+            34,
+            18
+        ],
+        [
+            32,
+            5
+        ],
+        [
+            0,
+            5
+        ],
+        [
+            15,
+            16
+        ],
+        [
+            7,
+            4
+        ],
+        [
+            7,
+            43
+        ],
+        [
+            9,
+            13
+        ],
+        [
+            7,
+            38
+        ],
+        [
+            1,
+            40
+        ],
+        [
+            7,
+            40
+        ],
+        [
+            14,
+            27
+        ],
+        [
+            15,
+            5
+        ],
+        [
+            11,
+            20
+        ],
+        [
+            0,
+            18
+        ],
+        [
+            9,
+            8
+        ],
+        [
+            0,
+            38
+        ],
+        [
+            11,
+            4
+        ],
+        [
+            33,
+            27
+        ],
+        [
+            33,
+            19
+        ],
+        [
+            1,
+            18
+        ],
+        [
+            15,
+            8
+        ],
+        [
+            41,
+            43
+        ],
+        [
+            1,
+            8
+        ],
+        [
+            0,
+            8
+        ],
+        [
+            3,
+            37
+        ],
+        [
+            33,
+            17
+        ],
+        [
+            1,
+            4
+        ],
+        [
+            1,
+            28
+        ],
+        [
+            10,
+            17
+        ],
+        [
+            32,
+            8
+        ],
+        [
+            35,
+            37
+        ],
+        [
+            11,
+            17
+        ],
+        [
+            9,
+            17
+        ],
+        [
+            34,
+            39
+        ],
+        [
+            32,
+            17
+        ],
+        [
+            14,
+            43
+        ],
+        [
+            33,
+            37
+        ],
+        [
+            10,
+            8
+        ],
+        [
+            11,
+            42
+        ],
+        [
+            15,
+            38
+        ],
+        [
+            11,
+            43
+        ],
+        [
+            1,
+            37
+        ],
+        [
+            7,
+            19
+        ],
+        [
+            1,
+            17
+        ],
+        [
+            11,
+            40
+        ],
+        [
+            36,
+            27
+        ],
+        [
+            6,
+            5
+        ],
+        [
+            36,
+            17
+        ],
+        [
+            34,
+            12
+        ],
+        [
+            35,
+            4
+        ],
+        [
+            2,
+            16
+        ],
+        [
+            6,
+            38
+        ],
+        [
+            34,
+            43
+        ],
+        [
+            1,
+            39
+        ],
+        [
+            41,
+            18
+        ],
+        [
+            41,
+            17
+        ],
+        [
+            2,
+            8
+        ],
+        [
+            36,
+            20
+        ],
+        [
+            1,
+            12
+        ],
+        [
+            1,
+            20
+        ],
+        [
+            32,
+            23
+        ],
+        [
+            0,
+            31
+        ],
+        [
+            33,
+            21
+        ],
+        [
+            33,
+            47
+        ],
+        [
+            33,
+            24
+        ],
+        [
+            10,
+            46
+        ],
+        [
+            33,
+            23
+        ],
+        [
+            6,
+            22
+        ],
+        [
+            34,
+            26
+        ],
+        [
+            7,
+            44
+        ],
+        [
+            36,
+            25
+        ],
+        [
+            9,
+            22
+        ],
+        [
+            14,
+            22
+        ],
+        [
+            36,
+            22
+        ],
+        [
+            2,
+            31
+        ],
+        [
+            6,
+            46
+        ],
+        [
+            36,
+            45
+        ],
+        [
+            15,
+            24
+        ],
+        [
+            7,
+            48
+        ],
+        [
+            15,
+            29
+        ],
+        [
+            2,
+            30
+        ],
+        [
+            32,
+            46
+        ]
+    ]
+}

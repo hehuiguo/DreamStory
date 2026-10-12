@@ -1,0 +1,1110 @@
+{
+    "character_type_list": [
+        "chef",
+        "astronaut",
+        "boy",
+        "man",
+        "cat",
+        "dog",
+        "boy",
+        "woman",
+        "cat",
+        "chef",
+        "pirate",
+        "man",
+        "cat",
+        "dog",
+        "pirate",
+        "Wizard",
+        "hamster",
+        "sparrow",
+        "turtle",
+        "mouse",
+        "frog",
+        "fox cub",
+        "dragon hatchling",
+        "fairy",
+        "gnome",
+        "toy robot",
+        "toy train",
+        "rubber duck",
+        "paper bird",
+        "toy boat",
+        "ceramic rabbit",
+        "alarm clock",
+        "lantern",
+        "potted cactus",
+        "violin",
+        "kite",
+        "snow globe",
+        "chess knight",
+        "teapot",
+        "pocket watch",
+        "firefly",
+        "ladybug",
+        "acorn sprite",
+        "paper airplane",
+        "toy dinosaur",
+        "corgi puppy",
+        "duckling",
+        "miniature astronaut",
+        "toy submarine",
+        "paintbrush",
+        "apple",
+        "spool",
+        "marble",
+        "robotic beetle",
+        "sailor",
+        "gardener",
+        "baker",
+        "violinist",
+        "photographer",
+        "mail carrier",
+        "young knight",
+        "raccoon",
+        "penguin",
+        "parrot",
+        "hedgehog",
+        "moon rover"
+    ],
+    "character_short_prompts_list": [
+        "jolly plump chef with white hat and stained apron.",
+        "futuristic astronaut with a visor up.",
+        "mischievous boy with slingshot",
+        "a distinguished man with a monocle.",
+        "siamese cat lounging on a book",
+        "golden dog with frisbee",
+        "young boy with glasses",
+        "elegant woman in red evening gown.",
+        "white cat with blue collar",
+        "portly chef with white hat",
+        "bearded pirate with a wooden leg",
+        "a dapper man with a beard and pocket watch.",
+        "aristocratic white cat with monocle and bow tie.",
+        "golden dog in a red superhero cape",
+        "a pirate captain with an eye patch and a hook.",
+        "Ancient wizard with wand.",
+        "tiny golden hamster with puffed cheeks",
+        "small brown sparrow with a striped wing",
+        "palm-sized green turtle with a patterned shell",
+        "tiny clockwork mouse with brass feet",
+        "little emerald tree frog with orange toes",
+        "small red fox cub with white-tipped paws",
+        "palm-sized blue dragon hatchling",
+        "tiny garden fairy with translucent wings",
+        "pocket-sized garden gnome in a yellow cap",
+        "small tin robot with a square face",
+        "miniature red wooden train engine",
+        "small yellow rubber duck with an orange beak",
+        "folded blue paper bird with crisp wings",
+        "miniature blue sailboat with a white sail",
+        "small white ceramic rabbit with painted spots",
+        "palm-sized brass alarm clock with twin bells",
+        "compact red camping lantern with a warm glow",
+        "small round cactus in a blue pot",
+        "child-sized brown violin with a tiny bow",
+        "little diamond kite made of orange paper",
+        "small glass snow globe with a cabin inside",
+        "carved wooden chess knight with a dark mane",
+        "round turquoise teapot with a curved spout",
+        "small silver pocket watch with an open lid",
+        "tiny glowing firefly with translucent wings",
+        "small red ladybug with black spots",
+        "tiny woodland sprite wearing an acorn cap",
+        "small folded paper airplane with a blue stripe",
+        "palm-sized green toy dinosaur with a ridged back",
+        "small corgi puppy with a blue bandana",
+        "tiny yellow duckling with damp feathers",
+        "tiny astronaut figurine with a gold visor",
+        "small yellow toy submarine with round windows",
+        "short wooden paintbrush with blue bristles",
+        "small shiny green apple with a leaf",
+        "compact wooden thread spool wrapped in red thread",
+        "large blue glass marble with a white swirl",
+        "tiny copper robotic beetle with six legs",
+        "young sailor in a navy pea coat",
+        "retired gardener in green overalls",
+        "young baker with a flour-dusted blue apron",
+        "street violinist in a charcoal coat",
+        "travel photographer with a canvas camera bag",
+        "friendly mail carrier in a blue uniform",
+        "young knight in modest silver armor",
+        "small raccoon with a striped tail",
+        "short emperor penguin with a red scarf",
+        "green parrot with a yellow cheek patch",
+        "round hedgehog with a knitted blue cap",
+        "compact six-wheeled lunar rover model"
+    ],
+    "character_prompts_list": [
+        "A jolly, plump chef with a towering white hat and a stained apron, brandishing a wooden spoon and a hearty laugh.",
+        "A futuristic astronaut in a sleek white suit with blue lights, visor up, revealing a face filled with wonder.",
+        "A youthful, freckled boy with unruly copper hair, a look of mischief in his deep green eyes.",
+        "A distinguished man with a neatly trimmed silver beard, monocle perched on his right eye, dressed in a tailored three-piece velvet suit.",
+        "An elegant, sleek Siamese cat, with piercing blue eyes.",
+        "A loyal golden dog, tongue lolling happily.",
+        "A young boy with messy, jet-black hair, wide, curious eyes, sporting oversized glasses and a superhero t-shirt.",
+        "A tall, graceful woman with silver-streaked ebony hair, wearing a sleek, red evening gown and a mysterious smile.",
+        "An elegant, long-haired white cat with piercing emerald eyes, wearing a tiny, sparkling blue collar.",
+        "A cheerful, portly chef with a towering white hat, flour-dusted apron.",
+        "A fierce, bearded pirate sporting a colorful bandana, a wooden leg, and an ornate cutlass hanging from his belt.",
+        "A dapper man in his 30s, with a neat beard, sharp eyes, wearing a tailored suit and a pocket watch.",
+        "An aristocratic, fluffy white cat with piercing blue eyes, wearing a tiny, sophisticated monocle and a royal blue bow tie.",
+        "A loyal, large golden dog with a shiny, golden coat, wearing a red superhero cape.",
+        "A rugged pirate captain with a tricorner hat, an eye patch, and a hook for a hand.",
+        "An ancient wizard with flowing robes, a long beard, and a pointed hat, casting a spell with a gnarled wand.",
+        "A tiny golden hamster with puffed cheeks, clutching a sunflower seed.",
+        "A small brown sparrow with a striped wing and bright black eyes.",
+        "A palm-sized green turtle with a patterned shell and curious eyes.",
+        "A tiny clockwork mouse with brass feet, a wind-up key, and a painted smile.",
+        "A little emerald tree frog with orange toes, perched alertly.",
+        "A small red fox cub with white-tipped paws and oversized ears.",
+        "A palm-sized blue dragon hatchling with folded wings and a curl of smoke.",
+        "A tiny garden fairy with translucent wings and a leaf-green dress.",
+        "A pocket-sized garden gnome in a yellow cap, carrying a miniature rake.",
+        "A small tin robot with a square face, blue buttons, and jointed arms.",
+        "A miniature red wooden train engine with three tiny wheels.",
+        "A small yellow rubber duck with an orange beak and a cheerful expression.",
+        "A folded blue paper bird with crisp wings and a delicate beak.",
+        "A miniature blue sailboat with a white sail and a tiny red pennant.",
+        "A small white ceramic rabbit with painted spots and glossy ears.",
+        "A palm-sized brass alarm clock with twin bells and a cream dial.",
+        "A compact red camping lantern with a warm amber glow.",
+        "A small round cactus in a blue ceramic pot, dotted with tiny pink flowers.",
+        "A child-sized brown violin with a tiny bow resting across its strings.",
+        "A little diamond kite made of orange paper with a short ribbon tail.",
+        "A small glass snow globe containing a red-roofed cabin and drifting snow.",
+        "A carved wooden chess knight with a dark mane and a polished base.",
+        "A round turquoise teapot with a curved spout and a lid topped by a bead.",
+        "A small silver pocket watch with an open lid and a delicate chain.",
+        "A tiny glowing firefly with translucent wings and a soft green light.",
+        "A small red ladybug with black spots and glossy wing cases.",
+        "A tiny woodland sprite wearing an acorn cap and a moss-green cloak.",
+        "A small folded paper airplane with a blue stripe along each wing.",
+        "A palm-sized green toy dinosaur with a ridged back and stubby feet.",
+        "A small corgi puppy with a blue bandana and upright ears.",
+        "A tiny yellow duckling with damp feathers and orange feet.",
+        "A tiny astronaut figurine in a white suit with a reflective gold visor.",
+        "A small yellow toy submarine with round windows and a periscope.",
+        "A short wooden paintbrush with blue bristles and a dab of red paint.",
+        "A small shiny green apple with a fresh leaf on its stem.",
+        "A compact wooden thread spool wrapped in bright red thread.",
+        "A large blue glass marble with a white spiral suspended inside.",
+        "A tiny copper robotic beetle with six articulated legs and glowing eyes.",
+        "A young sailor in a navy pea coat, striped shirt, and white cap.",
+        "A retired gardener in green overalls, carrying a small trowel.",
+        "A young baker with a flour-dusted blue apron and a tray of rolls.",
+        "A street violinist in a charcoal coat, holding a polished violin.",
+        "A travel photographer with a canvas camera bag and a compact camera.",
+        "A friendly mail carrier in a blue uniform, holding a bundle of letters.",
+        "A young knight in modest silver armor with a blue sash and a wooden shield.",
+        "A small raccoon with a striped tail and nimble paws.",
+        "A short emperor penguin with a red scarf and glossy black feathers.",
+        "A green parrot with a yellow cheek patch and a curved beak.",
+        "A round hedgehog with a knitted blue cap and tiny paws.",
+        "A compact six-wheeled lunar rover model with a dish antenna."
+    ],
+    "scene_prompts_list": [
+        [
+            "A cat crouches beside a ladybug at a greenhouse potting bench; a corgi puppy rests close to a toy dinosaur. Condensation glitters on the glass roof."
+        ],
+        [
+            "A baker pauses by a toy robot inside a museum gallery. A duckling sits just behind a gnome as spotlights draw pale circles on the floor."
+        ],
+        [
+            "A cat stands close to a lantern beside a flower cart; a spool overlaps the near edge of a pocket watch. Loose petals gather against the wheels."
+        ],
+        [
+            "A boy and a gnome share the foreground under a bookshop window; an acorn sprite and a hedgehog line up behind. Afternoon light falls across the paving stones."
+        ],
+        [
+            "A young knight passes between a miniature astronaut and a lantern in a lantern-lit courtyard; a potted cactus lies nearby. Long shadows stretch across the stones."
+        ],
+        [
+            "A wizard settles beside an apple around a campsite table; a teapot touches a frog in the narrow space ahead. Firelight flickers across the ground."
+        ],
+        [
+            "A raccoon edges around an acorn sprite inside a library nook; a paper airplane rests to the left of a lantern. Dust floats in a narrow shaft of light."
+        ],
+        [
+            "Inside a museum gallery, a man reaches past a corgi puppy; a toy robot and a kite are squeezed against the same corner. Spotlights draw pale circles on the floor."
+        ],
+        [
+            "A man pauses beside an alarm clock near a harbor crate; a fox cub overlaps a kite a little farther back. Salt haze softens the boats behind them."
+        ],
+        [
+            "A cat bends over a lantern on a station bench; a hedgehog and a mouse rest at different heights nearby. Rain shines on the rails beyond."
+        ],
+        [
+            "City lights glow below the parapet as a cat crouches beside a fairy by a rooftop planter; a paper bird rests near a duckling."
+        ],
+        [
+            "Dust floats in a narrow shaft of light. A young knight stands beside a toy dinosaur inside a library nook; a corgi puppy is tucked below a gnome."
+        ],
+        [
+            "Wet leaves darken the stones as a baker turns toward a paper bird along a narrow garden path; a teapot and a hamster touch at the edge."
+        ],
+        [
+            "A man crouches beside a fox cub at an artist's desk; a moon rover rests close to a dragon hatchling. Paint flecks dot the floorboards."
+        ],
+        [
+            "Beside a flower cart, a cat leans toward an alarm clock, with a marble nearly touching a paper bird. Loose petals gather against the wheels."
+        ],
+        [
+            "A cat pauses by a pocket watch beside a harbor crate. A toy dinosaur sits just behind a toy boat as salt haze softens the boats behind them."
+        ],
+        [
+            "A wizard looks across a hedgehog on a station bench; a mouse is tucked between them and a rubber duck. Rain shines on the rails beyond."
+        ],
+        [
+            "A gardener brushes past a marble near a workshop shelf, while a lantern rests against a potted cactus. Amber lamplight catches the wooden grain."
+        ],
+        [
+            "A cat and a potted cactus share the foreground on a wooden bridge; a firefly and a teapot line up behind. The stream flickers through the slats."
+        ],
+        [
+            "A dog passes between a duckling and a paper bird along a narrow garden path; a chess knight lies nearby. Wet leaves darken the stones."
+        ],
+        [
+            "At a greenhouse potting bench, a raccoon leans over a snow globe, while a toy boat and a gnome nearly meet behind them. Condensation glitters on the glass roof."
+        ],
+        [
+            "A dog stands in front of a duckling inside a museum gallery; a chess knight sits beside a moon rover farther back. Spotlights draw pale circles on the floor."
+        ],
+        [
+            "Beside a harbor crate, a penguin reaches past a spool; a toy train and an acorn sprite are squeezed against the same corner. Salt haze softens the boats behind them."
+        ],
+        [
+            "A woman pauses beside a lantern near a workshop shelf; a paper bird overlaps a ladybug a little farther back. Amber lamplight catches the wooden grain."
+        ],
+        [
+            "Colored paper covers the tabletop while a cat pauses over a frog around a classroom table; a toy boat touches a toy robot nearby."
+        ],
+        [
+            "Condensation glitters on the glass roof. At a greenhouse potting bench, a man moves close to a duckling as a pocket watch sits partly behind a toy submarine."
+        ],
+        [
+            "Striped fabric casts bands of shade. A violinist stands beside a hamster inside a market stall; a duckling is tucked below a chess knight."
+        ],
+        [
+            "Spotlights draw pale circles on the floor as a wizard turns toward a ladybug inside a museum gallery; an acorn sprite and a marble touch at the edge."
+        ],
+        [
+            "Paint flecks dot the floorboards. Beside an artist's desk, a sailor and a miniature astronaut crowd the near edge; a chess knight rests beside a robotic beetle."
+        ],
+        [
+            "A pirate crouches beside a moon rover on a snowy cabin porch; a potted cactus rests close to a duckling. Blue dusk settles over the snow."
+        ],
+        [
+            "A photographer pauses by a rubber duck near a workshop shelf. A kite sits just behind a spool as amber lamplight catches the wooden grain."
+        ],
+        [
+            "Under a bookshop window, an astronaut turns toward a rubber duck; a ceramic rabbit and a sparrow crowd the same small corner. Afternoon light falls across the paving stones."
+        ],
+        [
+            "An astronaut brushes past an acorn sprite in a lantern-lit courtyard, while an apple rests against a duckling. Long shadows stretch across the stones."
+        ],
+        [
+            "Around a campsite table, a cat has a paper airplane on one side and a gnome on the other, with a toy robot just ahead. Firelight flickers across the ground."
+        ],
+        [
+            "A man stands in front of a corgi puppy beside a harbor crate; a potted cactus sits beside a ceramic rabbit farther back. Salt haze softens the boats behind them."
+        ],
+        [
+            "Near a workshop shelf, a dog reaches past a paintbrush; a potted cactus and a miniature astronaut are squeezed against the same corner. Amber lamplight catches the wooden grain."
+        ],
+        [
+            "A chef shifts beside a paper airplane inside a library nook; a toy robot and a gnome are pressed into the space at their feet. Dust floats in a narrow shaft of light."
+        ],
+        [
+            "Rain streaks the window while a cat pauses over an alarm clock inside a train compartment; a duckling touches a teapot nearby."
+        ],
+        [
+            "Loose petals gather against the wheels. A chef stands beside a violin at a flower cart; a toy dinosaur is tucked below an alarm clock."
+        ],
+        [
+            "Rain shines on the rails beyond. An astronaut leans toward a teapot on a station bench, while a lantern is almost hidden behind a snow globe."
+        ],
+        [
+            "A dog crouches beside a moon rover under a bookshop window; a miniature astronaut rests close to an alarm clock. Afternoon light falls across the paving stones."
+        ],
+        [
+            "By a rooftop planter, a woman leans toward a miniature astronaut, with a kite nearly touching an apple. City lights glow below the parapet."
+        ],
+        [
+            "A gardener stands close to a potted cactus inside a library nook; a kite overlaps the near edge of a paper bird. Dust floats in a narrow shaft of light."
+        ],
+        [
+            "A parrot crouches near a moon rover inside a train compartment; a corgi puppy and an acorn sprite sit side by side. Rain streaks the window."
+        ],
+        [
+            "On a snowy cabin porch, a wizard leans over a sparrow, while an acorn sprite and a teapot nearly meet behind them. Blue dusk settles over the snow."
+        ],
+        [
+            "Inside a library nook, a dog almost bumps a duckling; a turtle and a miniature astronaut fill the gap beside them. Dust floats in a narrow shaft of light."
+        ],
+        [
+            "Salt haze softens the boats behind them. A gardener brushes past a sparrow beside a harbor crate, with an alarm clock just behind a rubber duck."
+        ],
+        [
+            "Amber lamplight catches the wooden grain as a boy turns toward a toy robot near a workshop shelf; a ladybug and a toy train touch at the edge."
+        ],
+        [
+            "A chef looks across a rubber duck around a classroom table; a snow globe is tucked between them and a toy train. Colored paper covers the tabletop."
+        ],
+        [
+            "An astronaut brushes past a toy submarine inside a museum gallery, while a teapot rests against a paper bird. Spotlights draw pale circles on the floor."
+        ],
+        [
+            "Along a narrow garden path, a young knight reaches past a robotic beetle; a lantern and a miniature astronaut are squeezed against the same corner. Wet leaves darken the stones."
+        ],
+        [
+            "A young knight remains close to a toy submarine around a classroom table; a teapot lies between them and an acorn sprite. Colored paper covers the tabletop."
+        ],
+        [
+            "A chef turns around a sparrow at a greenhouse potting bench, with a lantern resting partly behind an acorn sprite. Condensation glitters on the glass roof."
+        ],
+        [
+            "Inside a market stall, a boy almost bumps an acorn sprite; a violin and a toy robot fill the gap beside them. Striped fabric casts bands of shade."
+        ],
+        [
+            "A pirate pauses beside a potted cactus inside a museum gallery; a chess knight overlaps a toy dinosaur a little farther back. Spotlights draw pale circles on the floor."
+        ],
+        [
+            "A boy bends over a dragon hatchling inside a train compartment; a ceramic rabbit and a fox cub rest at different heights nearby. Rain streaks the window."
+        ],
+        [
+            "Afternoon light falls across the paving stones. Under a bookshop window, a young knight moves close to a kite as a potted cactus sits partly behind a frog."
+        ],
+        [
+            "Beside an artist's desk, a boy turns toward a paper bird; a toy boat and a frog crowd the same small corner. Paint flecks dot the floorboards."
+        ],
+        [
+            "On a station bench, a baker has a toy robot on one side and a toy dinosaur on the other, with a violin just ahead. Rain shines on the rails beyond."
+        ],
+        [
+            "By a rooftop planter, an astronaut peers toward a paper bird; a toy dinosaur is partly hidden by an alarm clock at the far edge. City lights glow below the parapet."
+        ],
+        [
+            "A pirate settles beside a gnome around a campsite table; a moon rover touches a corgi puppy in the narrow space ahead. Firelight flickers across the ground."
+        ],
+        [
+            "Beside a flower cart, a cat almost bumps a marble; a corgi puppy and a paper bird fill the gap beside them. Loose petals gather against the wheels."
+        ],
+        [
+            "A woman pauses beside a teapot near a harbor crate; a sparrow overlaps a frog a little farther back. Salt haze softens the boats behind them."
+        ],
+        [
+            "Long shadows stretch across the stones. A chef brushes past a ceramic rabbit in a lantern-lit courtyard, with a snow globe just behind a toy robot."
+        ],
+        [
+            "Dust floats in a narrow shaft of light. A gardener stands beside a teapot inside a library nook; a miniature astronaut is tucked below a frog."
+        ],
+        [
+            "A woman crouches beside a hamster at an artist's desk; an alarm clock rests close to a moon rover. Paint flecks dot the floorboards."
+        ],
+        [
+            "Inside a library nook, a young knight peers toward a violin; a frog is partly hidden by an alarm clock at the far edge. Dust floats in a narrow shaft of light."
+        ],
+        [
+            "Beside a harbor crate, a dog reaches past a potted cactus; a toy boat and a paper airplane are squeezed against the same corner. Salt haze softens the boats behind them."
+        ],
+        [
+            "A gardener remains close to a pocket watch on a station bench; a toy dinosaur lies between them and an alarm clock. Rain shines on the rails beyond."
+        ],
+        [
+            "Dust floats in a narrow shaft of light as a pirate crouches beside a dragon hatchling inside a library nook; a violin rests near a ceramic rabbit."
+        ],
+        [
+            "A pirate crouches beside a toy train on a snowy cabin porch; a frog rests close to an alarm clock. Blue dusk settles over the snow."
+        ],
+        [
+            "A woman pauses by a potted cactus near a workshop shelf. A rubber duck sits just behind a gnome as amber lamplight catches the wooden grain."
+        ],
+        [
+            "Under a bookshop window, a wizard turns toward an acorn sprite; a lantern and a hamster crowd the same small corner. Afternoon light falls across the paving stones."
+        ],
+        [
+            "A pirate and a fox cub share the foreground at a greenhouse potting bench; an alarm clock and a ceramic rabbit line up behind. Condensation glitters on the glass roof."
+        ],
+        [
+            "A cat passes between a violin and a frog inside a museum gallery; a rubber duck lies nearby. Spotlights draw pale circles on the floor."
+        ],
+        [
+            "Beside an artist's desk, an astronaut leans over a toy dinosaur, while a frog and a corgi puppy nearly meet behind them. Paint flecks dot the floorboards."
+        ],
+        [
+            "On a seaside promenade, a gardener cradles a hedgehog against their sleeve; a boy rests a hand on a dog just behind them. Wind stirs the loose gravel."
+        ],
+        [
+            "Striped shade falls over the cobbles as a photographer wraps an arm around a cat under a market awning, while a young knight cups a parrot near their chest a few steps away."
+        ],
+        [
+            "A sailor lifts a hedgehog close to their face near the front in a village square; farther back, a baker wraps an arm around a dog. Market flags flutter overhead."
+        ],
+        [
+            "Firelight warms the nearby stones. A baker lifts a dragon hatchling close to their face at a campsite, and a chef wraps an arm around a cat nearby."
+        ],
+        [
+            "Striped shade falls over the cobbles as an astronaut wraps an arm around a fox cub under a market awning, while a wizard cradles a dragon hatchling against their sleeve a few steps away."
+        ],
+        [
+            "A boy crouches to stroke a dog in a village square, while a wizard lifts a turtle close to their face. Market flags flutter overhead."
+        ],
+        [
+            "Spotlights strike the polished floor as a rubber duck appears in front of a dragon hatchling in a museum gallery; a raccoon rests against a photographer."
+        ],
+        [
+            "A robotic beetle is tucked behind a toy submarine inside a busy market stall; an astronaut and a chef meet at the right edge. Red fabric casts broken shade."
+        ],
+        [
+            "The window reflects passing lights. Inside a train carriage, a paper bird partly covers a cat; a chef and an astronaut touch farther back."
+        ],
+        [
+            "A toy robot rests at the near edge beside a harbor wall; a chef is behind it, and a sailor overlaps a dog. The water throws pale reflections."
+        ],
+        [
+            "On a snowy courtyard path, a fairy partly hides a turtle in the foreground; a man and a moon rover sit farther back. Footprints break the smooth snow."
+        ],
+        [
+            "A sailor nearly covers a chess knight beside a harbor wall; a toy boat appears just behind a baker. The water throws pale reflections."
+        ],
+        [
+            "On a snowy courtyard path, a violin touches a teapot at the front; a dog is just visible behind a sailor. Footprints break the smooth snow."
+        ],
+        [
+            "A pirate overlaps the edge of a marble on a bridge at dusk; a toy submarine appears just beyond a chef. The stream darkens beneath the planks."
+        ],
+        [
+            "Dust glows between the shelves as a toy boat appears in front of an astronaut in a library alcove; a teapot rests against a parrot."
+        ],
+        [
+            "An astronaut is tucked behind a hedgehog beside a harbor wall; a gardener and a teapot meet at the right edge. The water throws pale reflections."
+        ],
+        [
+            "Spotlights strike the polished floor while a penguin blocks part of a pirate in a museum gallery; a chef and a baker are side by side."
+        ],
+        [
+            "A paper bird overlaps the edge of a toy robot under a festival tent; a mail carrier appears just beyond a potted cactus. Paper streamers sway overhead."
+        ],
+        [
+            "A chess knight and a dog touch near the front beside a harbor wall; a moon rover cuts across the outline of a ceramic rabbit. The water throws pale reflections."
+        ],
+        [
+            "A potted cactus occupies the near left in a narrow kitchen, partly concealing a young knight; a wizard and a sparrow sit apart in the distance. Morning light spills across the tiles."
+        ],
+        [
+            "Spotlights strike the polished floor. In a museum gallery, a sailor partly covers a kite; a robotic beetle and a cat touch farther back."
+        ],
+        [
+            "Beside a harbor wall, a man is close to a duckling, their edges crossing; a paper bird rests behind an apple. The water throws pale reflections."
+        ],
+        [
+            "A toy train rests at the near edge on a snowy courtyard path; a dog is behind it, and a gnome overlaps an alarm clock. Footprints break the smooth snow."
+        ],
+        [
+            "The water throws pale reflections. A corgi puppy overlaps an astronaut beside a harbor wall, while a kite and a woman sit across the far side."
+        ]
+    ],
+    "scene_character_list": [
+        [
+            4,
+            41,
+            45,
+            44
+        ],
+        [
+            56,
+            25,
+            46,
+            24
+        ],
+        [
+            8,
+            32,
+            51,
+            39
+        ],
+        [
+            2,
+            24,
+            42,
+            64
+        ],
+        [
+            60,
+            47,
+            32,
+            33
+        ],
+        [
+            15,
+            50,
+            38,
+            20
+        ],
+        [
+            61,
+            42,
+            43,
+            32
+        ],
+        [
+            3,
+            45,
+            25,
+            35
+        ],
+        [
+            11,
+            31,
+            21,
+            35
+        ],
+        [
+            4,
+            32,
+            64,
+            19
+        ],
+        [
+            4,
+            23,
+            28,
+            46
+        ],
+        [
+            60,
+            44,
+            45,
+            24
+        ],
+        [
+            56,
+            28,
+            38,
+            16
+        ],
+        [
+            3,
+            21,
+            65,
+            22
+        ],
+        [
+            8,
+            31,
+            52,
+            28
+        ],
+        [
+            12,
+            39,
+            44,
+            29
+        ],
+        [
+            15,
+            64,
+            19,
+            27
+        ],
+        [
+            55,
+            52,
+            32,
+            33
+        ],
+        [
+            8,
+            33,
+            40,
+            38
+        ],
+        [
+            13,
+            46,
+            28,
+            37
+        ],
+        [
+            61,
+            36,
+            29,
+            24
+        ],
+        [
+            5,
+            46,
+            37,
+            65
+        ],
+        [
+            62,
+            51,
+            26,
+            42
+        ],
+        [
+            7,
+            32,
+            28,
+            41
+        ],
+        [
+            12,
+            20,
+            29,
+            25
+        ],
+        [
+            3,
+            46,
+            39,
+            48
+        ],
+        [
+            57,
+            16,
+            46,
+            37
+        ],
+        [
+            15,
+            41,
+            42,
+            52
+        ],
+        [
+            54,
+            47,
+            37,
+            53
+        ],
+        [
+            10,
+            65,
+            33,
+            46
+        ],
+        [
+            58,
+            27,
+            35,
+            51
+        ],
+        [
+            1,
+            27,
+            30,
+            17
+        ],
+        [
+            1,
+            42,
+            50,
+            46
+        ],
+        [
+            8,
+            43,
+            24,
+            25
+        ],
+        [
+            11,
+            45,
+            33,
+            30
+        ],
+        [
+            13,
+            49,
+            33,
+            47
+        ],
+        [
+            0,
+            43,
+            25,
+            24
+        ],
+        [
+            8,
+            31,
+            46,
+            38
+        ],
+        [
+            0,
+            34,
+            44,
+            31
+        ],
+        [
+            1,
+            38,
+            32,
+            36
+        ],
+        [
+            13,
+            65,
+            47,
+            31
+        ],
+        [
+            7,
+            47,
+            35,
+            50
+        ],
+        [
+            55,
+            33,
+            35,
+            28
+        ],
+        [
+            63,
+            65,
+            45,
+            42
+        ],
+        [
+            15,
+            17,
+            42,
+            38
+        ],
+        [
+            5,
+            46,
+            18,
+            47
+        ],
+        [
+            55,
+            17,
+            31,
+            27
+        ],
+        [
+            2,
+            25,
+            41,
+            26
+        ],
+        [
+            9,
+            27,
+            36,
+            26
+        ],
+        [
+            1,
+            48,
+            38,
+            28
+        ],
+        [
+            60,
+            53,
+            32,
+            47
+        ],
+        [
+            60,
+            48,
+            38,
+            42
+        ],
+        [
+            0,
+            17,
+            32,
+            42
+        ],
+        [
+            6,
+            42,
+            34,
+            25
+        ],
+        [
+            14,
+            33,
+            37,
+            44
+        ],
+        [
+            2,
+            22,
+            30,
+            21
+        ],
+        [
+            60,
+            35,
+            33,
+            20
+        ],
+        [
+            6,
+            28,
+            29,
+            20
+        ],
+        [
+            56,
+            25,
+            44,
+            34
+        ],
+        [
+            1,
+            28,
+            44,
+            31
+        ],
+        [
+            10,
+            24,
+            65,
+            45
+        ],
+        [
+            8,
+            52,
+            45,
+            28
+        ],
+        [
+            7,
+            38,
+            17,
+            20
+        ],
+        [
+            9,
+            30,
+            36,
+            25
+        ],
+        [
+            55,
+            38,
+            47,
+            20
+        ],
+        [
+            7,
+            16,
+            31,
+            65
+        ],
+        [
+            60,
+            34,
+            20,
+            31
+        ],
+        [
+            13,
+            33,
+            29,
+            43
+        ],
+        [
+            55,
+            39,
+            44,
+            31
+        ],
+        [
+            14,
+            22,
+            34,
+            30
+        ],
+        [
+            10,
+            26,
+            20,
+            31
+        ],
+        [
+            7,
+            33,
+            27,
+            24
+        ],
+        [
+            15,
+            42,
+            32,
+            16
+        ],
+        [
+            10,
+            21,
+            31,
+            30
+        ],
+        [
+            4,
+            34,
+            20,
+            27
+        ],
+        [
+            1,
+            44,
+            20,
+            45
+        ],
+        [
+            55,
+            2,
+            64,
+            13
+        ],
+        [
+            58,
+            60,
+            4,
+            63
+        ],
+        [
+            54,
+            56,
+            64,
+            5
+        ],
+        [
+            56,
+            9,
+            22,
+            4
+        ],
+        [
+            1,
+            15,
+            21,
+            22
+        ],
+        [
+            6,
+            15,
+            13,
+            18
+        ],
+        [
+            27,
+            22,
+            61,
+            58
+        ],
+        [
+            53,
+            48,
+            1,
+            9
+        ],
+        [
+            28,
+            8,
+            9,
+            1
+        ],
+        [
+            25,
+            9,
+            54,
+            13
+        ],
+        [
+            23,
+            18,
+            3,
+            65
+        ],
+        [
+            54,
+            37,
+            29,
+            56
+        ],
+        [
+            34,
+            38,
+            5,
+            54
+        ],
+        [
+            14,
+            52,
+            48,
+            9
+        ],
+        [
+            29,
+            1,
+            38,
+            63
+        ],
+        [
+            1,
+            64,
+            55,
+            38
+        ],
+        [
+            62,
+            10,
+            9,
+            56
+        ],
+        [
+            28,
+            25,
+            59,
+            33
+        ],
+        [
+            37,
+            5,
+            65,
+            30
+        ],
+        [
+            33,
+            60,
+            15,
+            17
+        ],
+        [
+            54,
+            35,
+            53,
+            8
+        ],
+        [
+            11,
+            46,
+            28,
+            50
+        ],
+        [
+            26,
+            5,
+            24,
+            31
+        ],
+        [
+            45,
+            1,
+            35,
+            7
+        ]
+    ]
+}
