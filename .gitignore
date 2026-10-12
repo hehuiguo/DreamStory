@@ -137,6 +137,7 @@ dmypy.json
 
 # ckpt
 *ckpt/
+checkpoints/
 *.bin
 *.ckpt
 *.pt
